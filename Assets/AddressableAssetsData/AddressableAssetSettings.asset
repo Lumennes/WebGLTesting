@@ -61,9 +61,9 @@ MonoBehaviour:
       - m_Id: d63ba8d1edd0ccb40b2adcac735f3cd7
         m_Value: '{UnityEngine.AddressableAssets.Addressables.RuntimePath}/[BuildTarget]'
       - m_Id: b77ef2c0c529d914d8c6832fde84e3db
-        m_Value: ServerData/[BuildTarget]
+        m_Value: C:/xampp/htdocs/YandexGames/Testing/[BuildTarget]
       - m_Id: d1ccda368f4c9d544a31b7c1a3a628b8
-        m_Value: http://[PrivateIpAddress]:[HostingServicePort]
+        m_Value: http://localhost/YandexGames/Testing/[BuildTarget]
     m_ProfileEntryNames:
     - m_Id: 1810c36d2c90b8244a8bf4af4a55a016
       m_Name: BuildTarget

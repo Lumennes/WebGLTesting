@@ -25,6 +25,18 @@ MonoBehaviour:
     m_Address: Assets/Scenes/SampleScene.unity
     m_ReadOnly: 0
     m_SerializedLabels: []
+  - m_GUID: addc535b2c3c945409fabf2efb9d9126
+    m_Address: Assets/POLYGONHorse/Demo/Demo_Horse.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 728eb67143587174697aa2444768b8ae
+    m_Address: Assets/POLYGONHorse/Prefab/PolygonHorse.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e52e7b416d013c949bac0588934b67be
+    m_Address: Assets/PolygonExplorers/Scenes/Demo.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: 19ada061e49c42a4a893cd04a49e76b9, type: 2}
   m_SchemaSet:
