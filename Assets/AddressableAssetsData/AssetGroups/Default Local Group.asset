@@ -37,9 +37,141 @@ MonoBehaviour:
     m_Address: Assets/PolygonExplorers/Scenes/Demo.unity
     m_ReadOnly: 0
     m_SerializedLabels: []
+  - m_GUID: 997909fa44b7c4240a2ecb49b099d605
+    m_Address: Assets/PolygonExplorers/Prefabs/Props/SM_Prop_Bag_01.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 41ae195c2ab44b94599d08ebc87752b4
+    m_Address: Assets/PolygonExplorers/Prefabs/Props/SM_Prop_Bedroll_01.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 14f4cf197a1fca34b8737c705c6ecfc1
+    m_Address: Assets/PolygonExplorers/Prefabs/Props/SM_Prop_Binoculars_01.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 23205be0f9e922a409362d919454a8ec
+    m_Address: Assets/PolygonExplorers/Prefabs/Props/SM_Prop_Compass_01.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 563f33ec243972442a81d8bdff4d40ad
+    m_Address: Assets/PolygonExplorers/Prefabs/Props/SM_Prop_Flashlight_01.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: fe9dacf4691172643ad563458276b926
+    m_Address: Assets/PolygonExplorers/Prefabs/Props/SM_Prop_IceAxe_01.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: cd90571575f82ac46bed967ba562eb20
+    m_Address: Assets/PolygonExplorers/Prefabs/Props/SM_Prop_Idol_01.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 734f81580a44b3d4b8c820a092d9f247
+    m_Address: Assets/PolygonExplorers/Prefabs/Props/SM_Prop_Knife_01.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 096ea40a5c7a73342bac52f5679832b2
+    m_Address: Assets/PolygonExplorers/Prefabs/Props/SM_Prop_Knife_Cover_01.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 01d723dd750749c45aafc607856b4dfd
+    m_Address: Assets/PolygonExplorers/Prefabs/Props/SM_Prop_Map_01.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: be310a6d4c4447f4eb194e270daefd49
+    m_Address: Assets/PolygonExplorers/Prefabs/Props/SM_Prop_Map_02.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c2a884191c0e3a5448feb8a016553ad0
+    m_Address: Assets/PolygonExplorers/Prefabs/Props/SM_Prop_Plinth_01.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d32b5d707dece764d8b0e83612b116d8
+    m_Address: Assets/PolygonExplorers/Prefabs/Props/SM_Prop_Torch_01.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: de77c2c20655ee34dab7c81aa9dbb58a
+    m_Address: Assets/PolygonExplorers/Prefabs/Props/SM_Wep_Pistol_Revolver_01.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 49ca4dd25f534bf4b9e1aed8500990ac
+    m_Address: Assets/PolygonExplorers/Prefabs/Characters/Attachments/SM_Chr_Attach_Backpack_01.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 56a6ee22adb4d79449196eed59ae3204
+    m_Address: Assets/PolygonExplorers/Prefabs/Characters/Attachments/SM_Chr_Attach_Beard_01.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a11179290de4dcc4995d20ee72c998e8
+    m_Address: Assets/PolygonExplorers/Prefabs/Characters/Attachments/SM_Chr_Attach_Hair_Female_01.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 08b9d84f6182a78498406ee3563b8042
+    m_Address: Assets/PolygonExplorers/Prefabs/Characters/Attachments/SM_Chr_Attach_Hair_Female_Hat_01.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b33cb0e1bee852d4dbeb5296950c5f60
+    m_Address: Assets/PolygonExplorers/Prefabs/Characters/Attachments/SM_Chr_Attach_Hair_Male_01.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 50f19267e509a714aa5871d3b69ea80e
+    m_Address: Assets/PolygonExplorers/Prefabs/Characters/Attachments/SM_Chr_Attach_Hair_Male_Hat_01.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: dace9b50a70a6f64c821237ef7768e2f
+    m_Address: Assets/PolygonExplorers/Prefabs/Characters/Attachments/SM_Chr_Attach_Hat_Female_01.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ac776ec65a1cd5d438e6afb69508c3b7
+    m_Address: Assets/PolygonExplorers/Prefabs/Characters/Attachments/SM_Chr_Attach_Hat_Hunter_01.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5befafd5e75d02b4291651237d35a5e4
+    m_Address: Assets/PolygonExplorers/Prefabs/Characters/Attachments/SM_Chr_Attach_Hat_Male_01.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9e0a4ec04f4800b47831c413f2083fcb
+    m_Address: Assets/PolygonExplorers/Prefabs/Characters/Attachments/SM_Chr_Attach_Pouch_01.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8b6d64ee77895b24ba2e0fe87fa0e2df
+    m_Address: Assets/PolygonExplorers/Prefabs/Characters/Attachments/SM_Chr_Attach_Rope_01.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 90c0b607c5f396946975c9ab08d8523a
+    m_Address: Assets/PolygonExplorers/Prefabs/Characters/Attachments/SM_Chr_Attach_Whip_01.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9fe178956af0d4a419bfcb4bb5572201
+    m_Address: Assets/PolygonExplorers/Prefabs/Characters/Character_Explorer_Female_01.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8c84a68a6ecac2b40ace8c1e732ac78a
+    m_Address: Assets/PolygonExplorers/Prefabs/Characters/Character_Explorer_Male_01.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: fabff3cbe4a4be24a90f7b23e155e025
+    m_Address: Assets/PolygonExplorers/Prefabs/FX/Fire_01_FX.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f65b497ff807d95439b38e7da2fab667
+    m_Address: Assets/PolygonExplorers/Prefabs/FX/Fire_02_FX.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 88458a60107da3140a2e173fe916bbfb
+    m_Address: Assets/PolygonExplorers/Prefabs/FX/Smoke_Small_Light_FX.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4914d23c6d054804eaf73af5c33ede75
+    m_Address: Assets/PolygonExplorers/Prefabs/Vehicle/SK_Veh_4x4_Car_Alt_01.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 75391bd72349c8a4ab85518fec8e8ef6
+    m_Address: Assets/PolygonExplorers/Prefabs/Vehicle/SM_Veh_4x4_Car_01.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: 19ada061e49c42a4a893cd04a49e76b9, type: 2}
   m_SchemaSet:
     m_Schemas:
-    - {fileID: 11400000, guid: 2dd20e7952ca98748a2778847dc10b12, type: 2}
     - {fileID: 11400000, guid: cb5466a59fee77b47b18cce42beec833, type: 2}
+    - {fileID: 11400000, guid: 2dd20e7952ca98748a2778847dc10b12, type: 2}
