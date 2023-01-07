@@ -139,7 +139,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &141291332
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -243,6 +243,63 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &279126267
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1641446049711768, guid: 728eb67143587174697aa2444768b8ae, type: 3}
+      propertyPath: m_Name
+      value: PolygonHorse
+      objectReference: {fileID: 0}
+    - target: {fileID: 4026925984308410, guid: 728eb67143587174697aa2444768b8ae, type: 3}
+      propertyPath: m_RootOrder
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 4026925984308410, guid: 728eb67143587174697aa2444768b8ae, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4026925984308410, guid: 728eb67143587174697aa2444768b8ae, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4026925984308410, guid: 728eb67143587174697aa2444768b8ae, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4026925984308410, guid: 728eb67143587174697aa2444768b8ae, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4026925984308410, guid: 728eb67143587174697aa2444768b8ae, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4026925984308410, guid: 728eb67143587174697aa2444768b8ae, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4026925984308410, guid: 728eb67143587174697aa2444768b8ae, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4026925984308410, guid: 728eb67143587174697aa2444768b8ae, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4026925984308410, guid: 728eb67143587174697aa2444768b8ae, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4026925984308410, guid: 728eb67143587174697aa2444768b8ae, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 728eb67143587174697aa2444768b8ae, type: 3}
 --- !u!1 &292938399
 GameObject:
   m_ObjectHideFlags: 0
@@ -445,13 +502,14 @@ GameObject:
   m_Component:
   - component: {fileID: 685210383}
   - component: {fileID: 685210382}
+  - component: {fileID: 685210384}
   m_Layer: 0
   m_Name: LoadSceneForCustomBuild
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!114 &685210382
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -459,7 +517,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 685210381}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 69be213651d80fa4e91e08f167430e1a, type: 3}
   m_Name: 
@@ -480,6 +538,19 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &685210384
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 685210381}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 61756fb0f0f09224f9f7fa7e374ef88d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  LoadSceneByAddressGO: {fileID: 6632279158711422653, guid: fc9e9df36fa160b4b8e785b90e2191a9, type: 3}
 --- !u!1 &1509824375
 GameObject:
   m_ObjectHideFlags: 0
@@ -648,16 +719,16 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 685210381}
-        m_TargetAssemblyTypeName: UnityEngine.GameObject, UnityEngine
-        m_MethodName: SetActive
-        m_Mode: 6
+      - m_Target: {fileID: 685210384}
+        m_TargetAssemblyTypeName: LoadScene, Assembly-CSharp
+        m_MethodName: LoadSceneByKey
+        m_Mode: 5
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: 
+          m_StringArgument: Assets/PolygonExplorers/Scenes/Demo.unity
           m_BoolArgument: 1
         m_CallState: 2
 --- !u!114 &1677215921

@@ -29,7 +29,7 @@ internal class LoadSceneByAddress : MonoBehaviour
         //Screen.sleepTimeout = SleepTimeout.NeverSleep;
 
         DontDestroyOnLoad(gameObject);
-        DontDestroyOnLoad(loadCanvas);
+        //DontDestroyOnLoad(loadCanvas);
     }
 
     private void Start()
