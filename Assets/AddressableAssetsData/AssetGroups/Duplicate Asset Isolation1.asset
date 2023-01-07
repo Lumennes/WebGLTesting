@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Duplicate Asset Isolation1
+  m_EditorClassIdentifier: 
+  m_GroupName: Duplicate Asset Isolation1
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 8d54240caeeeff34ab3e44848bd3f8a6
+  m_SerializeEntries:
+  - m_GUID: 62e7c512dd985c647b6d419f2faa8696
+    m_Address: Assets/POLYGONHorse/Materials/PolygonHorse_01.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5de336cbe14b6ac4d9dce20bba19cfcc
+    m_Address: Assets/POLYGONHorse/Model/SyntyHorse.FBX
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: fc9e9df36fa160b4b8e785b90e2191a9
+    m_Address: Assets/Prefabs/LoadSceneByAdress.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8aa7ba5a896d01a4abe5919eeaf77c94
+    m_Address: Assets/POLYGONHorse/Textures/Horse_01.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: fe393ace9b354375a9cb14cdbbc28be4
+    m_Address: Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e3265ab4bf004d28a9537516768c1c75
+    m_Address: Assets/TextMesh Pro/Fonts/LiberationSans.ttf
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7d1c46152c97f4c4bbfe7d5e4596c95e
+    m_Address: Assets/POLYGONCityCharacters/Materials/Polygon_City_Characters_Mat_01_A.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4a5a8c8ff5d6d2e48ab8d2b27100cf57
+    m_Address: Assets/POLYGONCityCharacters/Models/Character.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3391e5a0d7f698a4b97dea8e8b5e894c
+    m_Address: Assets/POLYGONCityCharacters/Textures/Polygon_City_Characters_Texture_01_A.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 19ada061e49c42a4a893cd04a49e76b9, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: c628a486cdf618445b089d6b4d2c92a6, type: 2}
+    - {fileID: 11400000, guid: 5b7ed63c03782b440b629da0be37928b, type: 2}

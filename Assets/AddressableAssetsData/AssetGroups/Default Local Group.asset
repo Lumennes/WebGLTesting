@@ -169,6 +169,102 @@ MonoBehaviour:
     m_Address: Assets/PolygonExplorers/Prefabs/Vehicle/SM_Veh_4x4_Car_01.prefab
     m_ReadOnly: 0
     m_SerializedLabels: []
+  - m_GUID: 4fcea693d7e10da4c862ef7dd74ce1ec
+    m_Address: Assets/POLYGONCityCharacters/Demo/Demo.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b4587275bd8858843b068385a1cb3677
+    m_Address: Assets/POLYGONCityCharacters/Prefabs/Character_Biker_01.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: cf0f33d2a32f159499351bdc8d15d958
+    m_Address: Assets/POLYGONCityCharacters/Prefabs/Character_FastFoodGuy_01.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 646ab7dcc23229341892eccffdd5a3f3
+    m_Address: Assets/POLYGONCityCharacters/Prefabs/Character_FireFighter_01.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ae8b16115c4dca4499645ab171e10144
+    m_Address: Assets/POLYGONCityCharacters/Prefabs/Character_GamerGirl_01.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0d71eaacb7dc9214a840923aeede17a1
+    m_Address: Assets/POLYGONCityCharacters/Prefabs/Character_Gangster_01.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1eb7038c3383b9d4182139ee87feaa72
+    m_Address: Assets/POLYGONCityCharacters/Prefabs/Character_Grandma_01.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5a8d5cf9d0e1c75478e5062cc96376c2
+    m_Address: Assets/POLYGONCityCharacters/Prefabs/Character_Grandpa_01.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: fe631d66d91635d4db4b17b1c3da562a
+    m_Address: Assets/POLYGONCityCharacters/Prefabs/Character_HipsterGirl_01.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 526d6de2a1abc594180abbff3f624eed
+    m_Address: Assets/POLYGONCityCharacters/Prefabs/Character_HipsterGuy_01.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 260bc92b4025b7a4f98140a34d1af612
+    m_Address: Assets/POLYGONCityCharacters/Prefabs/Character_Hobo_01.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: fe02926d86299874a921d05a946cbd6c
+    m_Address: Assets/POLYGONCityCharacters/Prefabs/Character_Hotdog_01.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: edc13eb972d2a704db06565103473e80
+    m_Address: Assets/POLYGONCityCharacters/Prefabs/Character_Jock_01.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: bcae65457b2b7184a97db61675c85a98
+    m_Address: Assets/POLYGONCityCharacters/Prefabs/Character_Paramedic_01.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2b7716262d769d24fb8643017c8cdc75
+    m_Address: Assets/POLYGONCityCharacters/Prefabs/Character_PunkGirl_01.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a665d26bf3f0c8f4bb4797e811962f4b
+    m_Address: Assets/POLYGONCityCharacters/Prefabs/Character_PunkGuy_01.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a94ecba3d91185e43a1cf1fdfad01c79
+    m_Address: Assets/POLYGONCityCharacters/Prefabs/Character_Roadworker_01.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7b8784fae50118e4182c07fbf2d12bb9
+    m_Address: Assets/POLYGONCityCharacters/Prefabs/Character_ShopKeeper_01.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1a8311760944bee4a800ce10f84eee90
+    m_Address: Assets/POLYGONCityCharacters/Prefabs/Character_SummerGirl_01.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4c0e3eca026348d45adec14e11046ab2
+    m_Address: Assets/POLYGONCityCharacters/Prefabs/Character_Tourist_01.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 252bfa41218daf148aa0eff6a55b8d21
+    m_Address: Assets/PolygonDungeonRealms/Scenes/Demo_Desert_01.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d515063cc7e552649959320dfe40578b
+    m_Address: Assets/PolygonDungeonRealms/Scenes/Demo_Dungeon_01.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0850bb9b948948349b83e3612aa421af
+    m_Address: Assets/PolygonDungeonRealms/Scenes/Demo_Forge_01.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: eeccb7edee244244c9cbbb2d9e460728
+    m_Address: Assets/PolygonDungeonRealms/Scenes/Demo_Hell_01.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: 19ada061e49c42a4a893cd04a49e76b9, type: 2}
   m_SchemaSet:

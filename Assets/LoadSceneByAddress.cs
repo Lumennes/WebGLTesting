@@ -30,12 +30,14 @@ internal class LoadSceneByAddress : MonoBehaviour
 
         DontDestroyOnLoad(gameObject);
         //DontDestroyOnLoad(loadCanvas);
+
+        loadText.text = "";
     }
 
     private void Start()
     {
         //SetCursor(false, CursorLockMode.Locked);
-        LoadScene(key);
+        //LoadScene(key);
     }
 
     public void LoadScene(string key)
@@ -71,11 +73,18 @@ internal class LoadSceneByAddress : MonoBehaviour
                 loadText.text = $"Загрузка: 100%";
             yield return loadHandle.Result.ActivateAsync();
             loadCanvas.enabled = false;
+            loadText.text = "";
         }
     }
 
+
+    
+
     private void Update()
     {
+        if(Input.GetKeyDown(KeyCode.Escape) && !loading)
+            loadCanvas.enabled = !loadCanvas.enabled;
+
         if (loading && loadText)
             loadText.text = $"Загрузка: {(int)(loadHandle.PercentComplete * 100)}%";
     }

@@ -1,0 +1,1246 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Duplicate Asset Isolation2
+  m_EditorClassIdentifier: 
+  m_GroupName: Duplicate Asset Isolation2
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 85514365854749d4da7278d7be8c3d64
+  m_SerializeEntries:
+  - m_GUID: f161e0c08a3abcf4b901d18f4b9293ec
+    m_Address: Assets/PolygonDungeonRealms/Materials/Misc/GOLD.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: dcd655d164d7895488cdedc35b0fc12c
+    m_Address: Assets/PolygonDungeonRealms/Materials/Alternates/PolygonDungeonRealms_Mat_02_B.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8d4c8eb36fda89c41b05fe6969ab8c5c
+    m_Address: Assets/PolygonDungeonRealms/Materials/Alternates/PolygonDungeonRealms_Mat_01_B.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4c7bd2f6e56d0fb4dae0817bdbf7a987
+    m_Address: Assets/PolygonDungeonRealms/Materials/PolygonDungeonRealms_Mat_02_A.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2a12d3fc0532ba64e972160db18dfd99
+    m_Address: Assets/PolygonDungeonRealms/Materials/PolygonDungeonRealms_Mat_01_A.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 404c15300becd6043a46ade3317ef524
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Env_Statue_05_Convex 1.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5ab03830f56e3524abcc3169eea66ac7
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Prop_Camp_Plank_01.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9c720540f1b743c41917e7ca34b6d00e
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_SkyDome.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 320dfb80e4ef18e4fada03d337697026
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Env_Bramble_01.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f8bf7e80b9d36754e86fd5e3fa677c92
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Env_Rock_Peak_01.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b4df9f80ca60ebd4dab25dc4ff52d2a7
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Wall_05.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2b5561c0b70347c4cbf22c9cf8f0313a
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Prop_Camp_Table_Small_01.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 32759dc0c98898f41906ef0b27e5a010
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Env_Rock_Medium_03.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e33776e0d1c080e41ab083e23e3690f0
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Env_Rock_Medium_05.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f876b5413874a764fa61bb243a959a1a
+    m_Address: Assets/PolygonDungeonRealms/Models/FX_Sphere_Simple_01.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2094aa7113f2f1247acf443988bc6078
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Env_Rock_Cliff_Arch_01.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9c6ade9124af450499d47593d98f29b5
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Prop_Barrel_Small_01_Convex.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3b78da42a3fc1004289d39ac54a191a1
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Prop_Dwarf_Torch_01.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 999af25244698d24cad55e2c825d322d
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Prop_Camp_Rugs_01.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4b896a5250559d14db4079b9b52ae69e
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Prop_Barrel_Shelf_Large_01.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 29d5f762483895b4781ab6a12da71a30
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Env_Rock_Small_05.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b4ab77729707824419eef98c794e15c7
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Prop_Barrel_Shelf_Small_02_Convex.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 582b2bb2de0e2ac41834986476188ec1
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Prop_Camp_Platform_01_Convex
+      2.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6eb6d8d2e45a1654883e2950a5aaccd2
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Pillar_Half_05.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 10316f0336305ac44a829921fd562100
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Rune_Symbol_20.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d8985a334e071214983786317e0b0242
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Prop_Dwarf_Weapon_Barrel_02.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 27403263ed5abf64c814ce6d1b95dcde
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Prop_Camp_Pot_05_Convex.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e0ae9f83b763c4e4bbee395c70a98695
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Prop_Camp_Pot_03_Convex.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1ee32ce34277ae044bc3bf10a2b5326f
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Env_Rock_Cliff_03.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 840fa0f3526ae8e4b8e1296374f61794
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Prop_Camp_Wood_Floor_05_Convex.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2fdcc904dfd82f54abf343e41f2fde92
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Prop_Camp_Pot_03.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 075a0c340182cc74ca616511caed7934
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Env_Rock_Cliff_Arch_PIllar_01.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a9d64464f0e7c804dac571d227ca72e2
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Env_Rock_Small_03.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6d5859c4da3ecba408b2b266d3b9d102
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Prop_Camp_Chest_01.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 63139be463889184486d869520d31153
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Prop_Barrel_Shelf_Small_01.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3a2c8df4293e84e41989b6830b19fad7
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Prop_Camp_Pot_02_Convex.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4f20d91535c492c408a2cf016a5d74be
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Rune_Symbol_28.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: cb8f3735062dd0f4ba16f5ddec80981a
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Prop_Camp_Table_Small_01_Convex.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 350c5e4594a4b484291c456161e17cee
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Wall_Block_Angular_01.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6cf2ab551ad947d48bcb2aaf89a2ec02
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Env_Rubble_Slab_03.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 15bbf77562eb273488f526e4e6c2fccf
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Env_Tree_Dead_Windswept_01.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2ce53285c168e9a418907179804cc9c2
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Prop_Barrel_Shelf_Small_01_Convex.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c1ee6385b1bffb24fa8b9c940150742f
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Prop_Dwarf_Weapon_Barrel_02_Convex.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4db084a5d7ac8814b86478c63a571608
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Env_Rubble_Slab_01_Convex.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 753f7cb5f8a95244ca429408a045b63d
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Prop_Camp_Pot_02.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 26f8e2c588a93fe47a7ec255e70d8c4e
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Prop_Camp_Platform_01.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2fb624468bbd3a14dae1726a4fdabfa7
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Prop_Camp_Pot_05.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 149c6956d24ac384ea6a4adecd9efa0b
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Prop_Camp_Basket_01_Convex.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3493d3f6963f67e40af55b46322f2f3a
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Env_Rubble_Rocks_02.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: fd8acd07b1ba649469aa4c355dc8d4f9
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Wall_05_Convex.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c0d22c972fc0ec84b92c87662c9c3c77
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Prop_Camp_Wood_Floor_10_Convex.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0fdeefe76f50da547b4815025acf385c
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Prop_Barrel_Shelf_Small_02.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 551f49881ac88dc458a2ba616f159627
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Env_Tree_Dead_Windswept_02.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6402dcb8af512764794a49aeb84323fe
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Prop_Camp_Wood_Fence_01.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a4b933c8cd443f84db0fb04a1fb48a7a
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Env_Rock_Stairs_04.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 97191ec88877c1647bb177260d9a7684
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Prop_Barrel_03_Convex.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4e50f4d806bfdd44db294b441298b4bf
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Env_Rock_Stairs_03.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 726d3d09d69b05d4c9bc34560e450f14
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Prop_Dwarf_Torch_01_Convex.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7eb645195c6cb484db74efb420b65993
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Env_Rock_Medium_02.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5c73ed49b7b04904c9b709c46901f0f8
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Prop_Camp_Pot_04.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6ae6c569ed5d8f443935377a044fdb89
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Env_Rock_Small_02.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1ae793a952b946644bf24edffc36e427
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Balustrade_02.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 444a40d9f4b23654f9726cdcccbe5ae4
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Prop_Camp_Wood_Floor_05.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 913a7cd9ab80b5247ba966d5b0b399d9
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Env_Rock_Cliff_02.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2e62eb6a10965204f84bbbdbdf997abf
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Prop_Camp_Wood_Floor_10.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b64d6f8a6d5ad5949bfc6177b9d253d5
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Prop_Camp_Plank_01_Convex.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c4b5509a81d7d634f90d6f7cf8540d10
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Env_Rock_Flat_02.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 74c91faaf3f42ed4aba671f88101e846
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Stairs_Pillar_04_Convex.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 38a791ca08e8f89418a0be83baf27f15
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Rune_Symbol_44.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: bc436dcac3d5d8745a2a2e09c47dad6a
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Prop_Camp_Wood_Floor_09.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 67ad8cea377b77d43ab4fe600cdf61fc
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Env_Rock_Medium_04.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 95df980b60aee9a42b90ee12c51cffe2
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Stairs_Pillar_04.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f212a91bc96233a45a90089327c6d09c
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Prop_Barrel_03.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ec534d1bad46e7b4f82155d4e4de9d07
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Prop_Dwarf_Brazier_01.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 62a0032ba7edb714dbaeecb1993f8eeb
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Prop_Camp_Pot_04_Convex.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: bfee932b256c4634e9d0ccc79704afd3
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Env_Rubble_Slab_03_Convex.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 31b14f6bf55e5614781d04be052c9fe0
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Prop_Camp_Basket_01.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4de9237b6741128449f729c9e4fc83e6
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Env_Statue_05.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b4a2687bcb1421045b60708ab0ab0315
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Env_Rubble_Rocks_03.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 72369babfdeaaa144bcd3015eab235db
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Prop_Barrel_Shelf_Large_01_Convex.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f7ad10cbc01422a4383a7a7b80c0385a
+    m_Address: Assets/PolygonDungeonRealms/Models/Collision/SM_Env_Rock_Stairs_04_Collision.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: fb9b17cb20af5f144b824bae1cf080b8
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Env_Rock_Peak_02.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 621fcbdb19df40d4ab15fe9ef97938e9
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Pillar_Half_05_Convex
+      1.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 82005b1c7b7988c4fbb09cac6155be12
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Env_Rock_Small_04.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c5097f3c210592d4e856911d430486df
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Prop_Camp_Wood_Fence_01_Convex.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c1dd847cad109d441bd8ef3e3b903436
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Env_Rock_Medium_07.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: db5db47c0ad95774ab271c453e67692b
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Env_Rubble_Slab_01.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: eaebb97c8d42979438bcce0f2c703336
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Prop_Camp_Chest_02.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7f1525dcf681ba74c9fb4478c5b90ada
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Prop_Dwarf_Brazier_01_Convex.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0100ba6d9affd384bba1a6555fe2856a
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Wall_Trim_01_Convex.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f45fa2bdbd59b6d4d9cb9b454d84047b
+    m_Address: Assets/PolygonDungeonRealms/Models/Collision/SM_Env_Rock_Stairs_03_Collision.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 407870ed24481f74aad87e4b288ef7ed
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Prop_Barrel_Small_01.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b6a697fd8718eeb4d949dd584324beff
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Env_Rock_Flat_01.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3459321eb7155e5449f2b214f33352b5
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Prop_Camp_Chest_02_Convex.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5b967f2ef06c34a489127f978eb4c46c
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Env_Rock_Small_01.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7f02154e383b751478246fa6d155f5fa
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Env_Rubble_Rocks_01.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4b96065e2cca9ed49bf2fce481d80878
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Prop_Camp_Chest_01_Convex.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 99a8719fe7a392c478d93aa69e400bfb
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Env_Rock_Medium_06.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8baaa9af81e88ca45bb38189429540b6
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Env_Rock_Cliff_01.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ba6811dfc39049c4db266fabc7d0c55b
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Prop_Camp_Wood_Floor_09_Convex.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1425a5dfdd70bfe48a401e4f261ac537
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Wall_Trim_01.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2472f7df3761fbb4b9ca650dba9c4249
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Floor_28.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e0ff86ef704d299498dad785c7848a40
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Balustrade_02_Convex.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8ae9d9f08f7575e43921775971a3899a
+    m_Address: Assets/PolygonDungeonRealms/Textures/Dungeons_2_Texture_01_B.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d21b0d52ea5f1c84ba2e275be1619ee0
+    m_Address: Assets/PolygonDungeonRealms/Textures/Misc/Dungeons_2_Texture_Normal_Map.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 96c8d855fdff49e4f9c755db6b18afd8
+    m_Address: Assets/PolygonDungeonRealms/Textures/Dungeons_2_Texture_02_A.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d6e50c0686f83eb42951795e5627f17c
+    m_Address: Assets/PolygonDungeonRealms/Textures/Misc/Dungeons_2_Texture_Emission_02.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ca5218861d869e442bcae7aca8629a7b
+    m_Address: Assets/PolygonDungeonRealms/Textures/Misc/Dungeons_Realms_Metallic.tif
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 48dd9a7736c11b5448a74711310e2ee6
+    m_Address: Assets/PolygonDungeonRealms/Textures/Dungeons_2_Texture_01_A.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2deb9a997d4c62c4d92210d0f0a9abdd
+    m_Address: Assets/PolygonDungeonRealms/Textures/Misc/Dungeons_2_Texture_Emission_01.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 312cbbeccfed8164c88c2bcefd9f8379
+    m_Address: Assets/PolygonDungeonRealms/Textures/Dungeons_2_Texture_02_B.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 07a679004d280c24fac8d73ce8c63836
+    m_Address: Assets/PolygonDungeonRealms/Materials/Misc/FX_Standard 1.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4776dae064b9f574ea7d2d25294d2a1b
+    m_Address: Assets/PolygonDungeonRealms/Materials/Misc/SpiderWeb.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0c361341e05282547b4b27a461b09071
+    m_Address: Assets/PolygonDungeonRealms/Materials/Misc/FX_Standard_Soft.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 46039b43339edf0479d93cf146b4c178
+    m_Address: Assets/PolygonDungeonRealms/Materials/Misc/FX_Circle_Soft_Mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5a1ea726969f8784292b2da4647f0623
+    m_Address: Assets/PolygonDungeonRealms/Materials/Misc/FX_Circle_Mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 695590087dadf804aaaaa358b1238b0c
+    m_Address: Assets/PolygonDungeonRealms/Materials/Misc/Lava.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 90a8f8199fc7dd04ca275961b8cb956b
+    m_Address: Assets/PolygonDungeonRealms/Materials/Misc/FX_Portal_Mat 1.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: cce2224c1b3f54141b86f146973cf83e
+    m_Address: Assets/PolygonDungeonRealms/Materials/PolygonDungeonRealms_Mat_04_A.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 899b963fc9982334da61b5d9484e82bf
+    m_Address: Assets/PolygonDungeonRealms/Materials/PolygonDungeonRealms_Mat_03_A.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ff12f95fea14be547980dcb3befc07d5
+    m_Address: Assets/PolygonDungeonRealms/Materials/Misc/PolygonDungeonRealms_Crystal_01.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 44625d002c6e10c48b89ade187abb9e1
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Prop_Hell_Symbol_04_Convex.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1b65b710db7757f4483fe20405b3e345
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Prop_DeadBody_Dwarf_02.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 59cc6b30763d1bc4e8a3bcb454e117b7
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Stairs_Wall_01.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: bf2639400b55dfd47b5036905d0030e8
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Prop_Tech_Furnace_01_Convex.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 97b2a1805747f3a4c8b2ee65f1090a86
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Prop_DeadBody_Dwarf_04.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 77d7a9903fc21c04a8d0c010fd971d38
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Prop_DeadBody_Dwarf_04_Convex.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 411252a04cd1ae74d8040895433939c8
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Floor_Half_01_Convex.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b9e776a018fe3834091c6a5925295e27
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Env_Crystals_Cluster_Large_03_Convex.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 74032eb0616afa44abc421a8f9ed305b
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Balustrade_03.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 105b86d04253ef64ca70545eadee2d7f
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Prop_Tech_Coil_Tall_01_Convex.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d269efd0d235b0e4199a63f043b1c87f
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Rune_Symbol_70.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a7f7e2e0fa39eac4184da7339d8252ab
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Wall_03.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 875030f035c16d248881fa50bd24f94c
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Env_Hell_Spikes_04_Convex.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d4f4c0f07acfbb741a977860637b5a97
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Env_SpiderWeb_06.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e9806511ddda513408ca2a48d6c18523
+    m_Address: Assets/PolygonDungeonRealms/Models/Collision/SM_Env_Dwarf_Stairs_Small_Corner_02_Collision.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2e693f3135b53fc438efbdb785ae861b
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Prop_Sarcophagus_01_Convex 1.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9bc13a51216b2154f90e42f58a742091
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Prop_Dwarf_Torch_06_Convex.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 67178561759c27d49b20e767c7a46791
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Prop_DeadBody_Dwarf_03_Convex.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 923d9b713bd66224e89e6d4df7f77f2a
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Prop_Tech_Container_Pile_01.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 03c27d815ab08794cb65075c4ac356cb
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Prop_Dwarf_Cog_Box_01_Convex.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 89f299916712cfc4a8d4fb9a0b72ee9a
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Env_SpiderWeb_01.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9ec3ba919f81d114eb48e6681423cd91
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Prop_Tech_Tower_01.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 206b5f91b6bcd264e8456fee7f2dacad
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Stairs_Pillar_03_Convex.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 136259c1d98577549944e1b28257f8c5
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Env_Crystals_Cluster_Large_01_Convex.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 94da53d150e130c43a3fb8493ed25141
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Stairs_Pillar_01_Convex.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2f372502e353cf743ad98e1bd4f09f3c
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Prop_Tech_Container_Pile_02.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 85d75702a5d0e6f4abccfaae336fbe1c
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Stairs_Wall_01_Convex.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0f1de422cf45b6a4b96eeb7034254ceb
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Prop_Rug_08.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9203b52264224084a992cdf743081675
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Prop_Barrel_02_Convex.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9b0c2e32123dbe342a2fbb7509998401
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Prop_Tech_Container_03_Convex.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a478cf42a72dce544b84a04edf690c78
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Prop_Tech_Tower_01_Convex.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 823ef652e6495164ca700001c98e14c8
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Wall_Tunnel_01_Convex
+      1.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7aa84952a29bf9d4588f701531ed8cc3
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Stairs_Pillar_03.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f958f482ff0de3844983b0b3e784f324
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Wall_Short_03.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4f8ee092545954c48be22a4b3ba710fc
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Balustrade_03_Broken_01_Convex.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 16f9dbb2077a9c6409e25285e7ad2d3f
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Prop_Dwarf_Chain_01_Convex.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 77c8dac21ba816549bbe73b8277f6210
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Prop_Tech_Furnace_02_Convex.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ca415cc2589c1064e8cb0a77c0ad85d5
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Prop_Dwarf_Cog_Pile_01.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b5d81f138eaf21644ad50507d78403ee
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Prop_Crate_01.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 123409235f177c34aa1405aea2abb212
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Stairs_01.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2d265b438b6c41b4586d5dae546dfc70
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Prop_Crystal_03.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3f83ae43c4e461143a8980b55b5029a1
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Env_Dust_03.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e0ad0f53a9824e746b2c4e9fba6fbca3
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Floor_06.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 513350a36f22f524a82347bc1fc403f0
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Prop_Dwarf_Weapon_Rack_04.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 05b4e7a31ec0af54ca272822773d262e
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Env_SpiderWeb_04.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b24400c3715b6484695f62fe3b27a9f1
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Prop_Tech_Liquid_02.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2a8b97d33e8a7a5489de58fe58e97f56
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Prop_Dwarf_Chair_Bench_Broken_01_Convex.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 08b31cd3c930003439fe1fad24b99e66
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Prop_Sarcophagus_01_Convex.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e38e0674c4dccb84bac8d075e2cebcd9
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Prop_Dwarf_Table_02.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3b717d7463233584b834bfc1f8a0567d
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Balustrade_03_Convex.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6c1f9294ecf6cd245a6df29650a455b2
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Prop_Sarcophagus_01.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1ebd35a41d9c4424a8efd3f0315bab62
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Prop_Dwarf_Cog_Box_01.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: fbc177b48c5c09f488f3e607d0551e61
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Wall_Tunnel_Archway_01.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7d37dcc4494110641a3e112da7c4ec11
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Wall_03_Convex.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b97f8ae4dfffb384394c8bb44fcbe6f6
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Rune_Symbol_45.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 93b9b5f4c847d544896910bee56211e3
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Prop_Hell_Symbol_04.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 73778ef4c9bb32d438b18bd6256ef191
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Prop_Banner_01.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 015d1d055a1cceb49ad0634f8242fadd
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Env_Crystals_Cluster_Large_02_Convex.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 74d521352f143ba45aca4e8c87923f22
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Prop_DeadBody_Dwarf_01.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 191c3735d48feba429f2bdfe9adc3e72
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Obelisk_01.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 57892b35b85a907438668f8ddd50e5c8
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Prop_Crystal_01.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 42b6345542128be4387275c0b3365e0f
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Prop_Dwarf_Weapon_Rack_03.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b97fb47520a7528458acc8841ce32b50
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Obelisk_01_Convex.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: dc523575f145f0c49a910dced40be26b
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Pillar_Top_02.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8b5b7595ea6176844a03e474e3614dfc
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Rune_Symbol_65.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: eac2c5a5535118f4c983407cc3bd6ea2
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Prop_Crate_Stack_01.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5cd4ddd579a8ec8439ea282962adf0c0
+    m_Address: Assets/PolygonDungeonRealms/Models/Collision/SM_Env_Dwarf_Stairs_Small_01_Collision.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ab665ae5a2131774488afd36a1d8f03e
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Prop_Tech_Shelf_01.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7a47dcf5db6654c41bba715fb4217639
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Stairs_Small_Corner_05.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 76eaa306be9f8c94bac5f61241f3c900
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Env_Dust_01.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a79e49069c3a5f34ea332a587ce4fe8a
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Env_Lava_Plane_01.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f08eee065f0ce244f969d941581fafe9
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Env_Statue_01.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 501c3a1662e8ce64a86edc44a6c72a44
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Prop_Dwarf_Weapon_Rack_03_Convex.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f2814326c9f0d4649b2985aa80b36985
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Prop_Dwarf_Chain_01.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: cdcabd264191c1744a669b25623249f1
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Floor_Half_01.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: bf730146a3e7da14b8b65a06febc97ec
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Balustrade_03_Broken_02.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b29cc146e0f0c4645837cf5b5ebd929b
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Prop_Tech_Container_Pile_02_Convex.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d7e9205643e161b439d5921d3ec0ae7e
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Prop_Crate_01_Convex.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6ed6265656d59204581d6f7ccded4d0a
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Wall_DoorFrame_Slider_01.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 47a28766a45e8ef44a62b167896b4689
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Wall_Tunnel_Archway_01_Convex
+      3.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7b1bfc6657829f749aa050c17587c273
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Obelisk_02_Convex
+      1.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3ac02e76332377f49af1119810054cb5
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Prop_Barrel_02.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ea2f7d8646e6f2549b484d933280c79e
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Floor_17.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5711b1a67b8911248b971b3eee34c893
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Wall_Tunnel_01.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: eb4c5cb60445f644da07470a398fd81a
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Prop_Rug_Stairs_02.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 20b9d0c609199534ab6ddc2ac5e46ec9
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Prop_Barrel_Shelf_Large_02.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 651533c6a9dc6ee4e80c63f5f7e27f2e
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Prop_Tech_Furnace_02.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 909461d61ba3ce94590698bdcf283e5b
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Wall_06_Convex.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4e0be807437739440b6e9b0230b5354d
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Bridge_Extension_01_Convex.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8298381734c993d4fbee4cdd7a298ced
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Prop_Dwarf_Cart_03.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 534ec6275433b914eafe7e612cdad975
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Env_Crystals_Cluster_Large_04_Convex.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c535588775256454eaf6645d7fae0626
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Stairs_Pillar_02_Convex.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c0cc00c7309cc17408f629a98d2f787f
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Env_Crystals_Cluster_Large_03.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ea10ddd7f34b04148b9c9251623cf570
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Pillar_Top_03.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 443a5bf7b067da843bf985af76d8e47a
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Env_Hell_Spikes_05.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c82756287d58498439900957d9afe6d1
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Env_Hell_Spikes_05_Convex.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: cbeda238fea285243b59efde90c79acc
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Prop_Hell_Skull_02_Convex.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6ce03f38a91358f4f819870c02aab772
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Bridge_Extension_01.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: cf01df3817a56b24fbbf299f49f20955
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Prop_Tech_Pipe_Straight_01.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ff32254837b58de4db525f5a254c9c85
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Prop_Dwarf_Weapon_Rack_04_Convex.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ba85f668da3304e45826c595b4db048c
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Prop_Rock_Small_01.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 79fe6ba8af2e2ff4e87fb0d282e77365
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Prop_Barrel_Shelf_Large_02_Convex.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 257128b8ecbed864880feffcab8eaa32
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Env_Statue_03.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 11c49fd8a5f03b3428606eb1d4a666a4
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Prop_Dwarf_Chair_Bench_Broken_01.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b5acf3e8ba71bd5408c3b85aca7c7db2
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Pillar_Top_03_Convex.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 240c9fe8c7662ad4cb7c8aa2c37086ed
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Env_Dust_02.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 80960cf802fef5e4f953e042ab70dbdd
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Stairs_Small_01.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: bafef0199dcd5d447a687ccc4d1c16a9
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Prop_Tech_Container_03.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d25251797a8026343b643f3827bc9a9c
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Wall_DoorFrame_Slider_01_Convex
+      1.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d548d27904a118b40b9f0b76c0d277b1
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Wall_DoorFrame_Slider_01_Convex
+      2.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 593aaf793f6d2f8478c03ab835dab82f
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Rune_Symbol_25.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1f971b997403bcc42acfb355a4054f42
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Env_Lava_Line_01.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 50ca20b9c6a385b44a4dd31f0e6a93b3
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Wall_06.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8f935eb97948fc04c9cc797bc201aa3e
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Prop_Crate_Broken_01.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d47dfef90b5bed241aa0ce186e8e5231
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Env_Crystals_Cluster_Large_01.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 494b984af6724b74796370ff92ea895a
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Prop_Dwarf_Fire_Pit_01_Convex.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 06926f6a6c7cc5a4da15a6542b9d21c9
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Prop_Dwarf_Fire_Pit_01.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: fd17e77afd1102d4dafd4c341c16a646
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Prop_Dwarf_Chair_Bench_01_Convex.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 321592aa9f8cfe54b871ba18d7d24c57
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Wall_Trim_05.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: cb7641da1c3baf645ba383241aaabf53
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Prop_Chair_01.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a8bb89daaf3797348a71f7fe05e39850
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Prop_DeadBody_Dwarf_03.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 777352ea7a8e9a24d84077e0f1d80b97
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Pillar_Top_02_Convex.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c6b15dea140260b4fb9f3cdb10426b59
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Pillar_05_Convex 1.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8a40fa1bb254812459f38746c5d4cfb5
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Env_Hell_Spikes_04.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 80a3222b0d5dbdd459947cbb648c0e90
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Prop_DeadBody_Dwarf_02_Convex.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d3ad6f2b5204f064ebe93cdde514c281
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Balustrade_03_Broken_02_Convex.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7b87853b89ef11647b06a2ac4047b370
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Prop_Rock_Small_02.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 405cfb4b8414ea246b341e3a5859f065
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Balustrade_03_Broken_01.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0c24df8b2eb6f7140a0cfe365a357279
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Floor_21.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c93912ab128c45d47b0281ca48cc1152
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Wall_Archway_Top_06_Convex
+      2.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ddabc1bb789a0d04293f52a0b53077cc
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Prop_Dwarf_Cog_Pile_05_Convex.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 690302bb5d7fe384d9ce6213e5b46e0b
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Prop_Dwarf_Cart_03_Convex.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 14e440fb81547864d86f176905bb274f
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Pillar_02_Convex 1.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: de9c12fbd4c57034db3d811f752d9444
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Wall_Trim_05_Convex.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: bafe1e4c413f70842954be29e63f0806
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Prop_Dwarf_Cog_Pile_01_Convex.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d8ec407ca237bac4faef2905c00d70de
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Stairs_Small_Corner_02.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 48f3a29cf3f48b0438dd9b45bd1ac69f
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Prop_Tech_Coil_Short_01.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 66885bac3c1cf8c4e81084f11c984582
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Prop_Rock_Small_03.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 74225bec06109c44197c8703fccce3d3
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Env_Statue_01_Convex 1.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 32b90cec9ba5e6245983523645108604
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Rune_Symbol_77.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c7bc98fc1942da547aa937cda4411ced
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Prop_Tech_Coil_Tall_01.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 59cbe71d2da52c24d9ee3380689cf94b
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Prop_Hell_Skull_02.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2151c42d18915094684099451fe032bb
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Prop_Crystal_03_Convex.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e1c7093d7eaf0ca4da905f750f71f76e
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Prop_Crate_Broken_01_Convex.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f94af84d7065eee44aa01811ce0fdbd4
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Env_Dust_04.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 97ab655ddf351d744993b7a73c5aecd9
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Stairs_Pillar_02.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e7e2b0ad3f716224e81cd704017f704f
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Env_Statue_03_Convex 1.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5969e4cd8fa8e6349bc69787e66efb79
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Prop_Dwarf_Table_02_Convex.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 98092dcd763a2754ebfe4fff0ccc1167
+    m_Address: Assets/PolygonDungeonRealms/Models/Collision/SM_Env_Dwarf_Stairs_01_Collision.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 76a0e9dd536bf0746b5647b59dec2ab4
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Prop_Crystal_01_Convex.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3f651aedc82f7ea48bd9a1c9195050ab
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Prop_Dwarf_Chair_Bench_01.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 634fc21e5db988b4d96006dc35c15b01
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Prop_Chair_01_Convex.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 75583c2ee62d38a449d789319b5e2d3b
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Prop_Rock_Small_04.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9310d54ef1691bd44a5c5bd74c40137e
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Wall_Short_03_Convex.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 472d0b4e93ea54047836b6283d759dd3
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Prop_Tech_Furnace_01.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5fedbe5e05da9d74e8468f543d2535cb
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Prop_DeadBody_Dwarf_01_Convex.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0d269d6e421b78442b4b05fef7edbe65
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Pillar_05.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: edb3a37e81ecf89439757d0af2a9c0e6
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Pillar_02.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7a73787e6539451409000827ccf67177
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Prop_Tech_Pipe_Straight_01_Convex.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 946cd9be779fbda4bb47cafdebe202c0
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Prop_Dwarf_Torch_06.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 42d76bbea78c16149bac3a0c3701fbad
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Prop_Tech_Coil_Short_01_Convex.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9e0314fef83180944a599ebbcd931ce9
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Env_Crystals_Cluster_Large_04.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 36bd06fe0f9278643b3beecd9d7a4ed5
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Prop_Dwarf_TreasureChest_01.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: fc348e0f936d292459f5018487f7a267
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Prop_Crate_Stack_01_Convex.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a2e2ac1f3f1de174a9f4c4bd19249b56
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Env_Crystals_Cluster_Large_02.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9685b13f41887f442a2eb3c32d3a4494
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Env_Dust_05.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c124a43fd424b1d4fa082a1285e9db96
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Obelisk_02.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0724847f8c6a33c44a7661e821685d3a
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Stairs_Pillar_01.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: fed5f58f685a74040a0c6ed3b57e08b2
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Env_SpiderWeb_03.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 562dffaf7f53f4f4984999576a5924af
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Stairs_Small_Corner_05_Convex
+      1.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 142f51bfcced80547a22524abae325d3
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Prop_Dwarf_TreasureChest_01_Convex.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 354833bf8f6972d4c83ce0c667825a92
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Wall_Archway_Top_06.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 83a235bf67288964184fa16a4c59dbf6
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Prop_Tech_Container_Pile_01_Convex.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f3be55eff005c4b4bbc1663352aa99cb
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Prop_Dwarf_Cog_Pile_05.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 85a866efae21c344fbe111a35003905e
+    m_Address: Assets/PolygonDungeonRealms/Models/SM_Prop_Tech_Shelf_01_Convex.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7107f6404ee84f14d9f6eeefd1811aa5
+    m_Address: Assets/PolygonDungeonRealms/Textures/Misc/FX_Circle_Tex.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5fa1c973b11a91246bec4920291a22b0
+    m_Address: Assets/PolygonDungeonRealms/Textures/Misc/Spiderweb_01.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 13e3a485e140b31418d24312e61aab5c
+    m_Address: Assets/PolygonDungeonRealms/Textures/Dungeons_2_Texture_03_A.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ca2ee8a5255af1e4cbecb47bd1ef41ea
+    m_Address: Assets/PolygonDungeonRealms/Textures/Dungeons_2_Texture_04_A.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b6fcd73958bbd514faba7f1d7298809c
+    m_Address: Assets/PolygonDungeonRealms/Textures/Misc/Dungeons_2_Texture_Emission_04.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f4612baa55e931c47a4c13825c9201c8
+    m_Address: Assets/PolygonDungeonRealms/Textures/Misc/FX_Circle_Soft_Tex.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1495bbacddfd57442a4fe4a843b72bf0
+    m_Address: Assets/PolygonDungeonRealms/Textures/Misc/Dungeons_2_Texture_Emission_03.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 19ada061e49c42a4a893cd04a49e76b9, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 2c99d7bcc1c23654a97826b37c4e5864, type: 2}
+    - {fileID: 11400000, guid: 6cc732f71c746b847888ac01080193ff, type: 2}
