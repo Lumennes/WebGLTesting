@@ -1,0 +1,1663 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Duplicate Asset Isolation4
+  m_EditorClassIdentifier: 
+  m_GroupName: Duplicate Asset Isolation4
+  m_Data:
+    m_SerializedData: []
+  m_GUID: ca8581aa042d15b42a54776c8a7e591e
+  m_SerializeEntries:
+  - m_GUID: 306fe86082b00df4e845c60510b37de1
+    m_Address: Assets/Invector-3rdPersonController/Shooter/Scripts/ArcherySystem/Models/Bow/Materials/vBow_Difuse.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 45eb9691b900f4c47bfca1608d665978
+    m_Address: Assets/Invector-3rdPersonController/Melee Combat/3DModels/vMeleeWeapons/vAxe/Materials/Axe_Material_010.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a33be1e1efa8ca14286b77d062313a4e
+    m_Address: Assets/Invector-3rdPersonController/ItemManager/3D Models/Materials/UIOnTop.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 990f12e11c0c307478a50283c620cb39
+    m_Address: Assets/Invector-3rdPersonController/Shooter/3DModels/Weapons/vWeaponsNew/material/orange.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c5fb9c22889476f41ab5ae22d93067b1
+    m_Address: Assets/Invector-3rdPersonController/Melee Combat/3DModels/vMeleeWeapons/vAxe/Materials/Axe_Material_09.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7a9c81640763dc54b9638d56c3c7f72a
+    m_Address: Assets/Invector-3rdPersonController/Shooter/3DModels/Particles/Materials/trail.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a8cb5274004d1234c84a615858085f66
+    m_Address: Assets/Invector-3rdPersonController/Melee Combat/3DModels/vMeleeWeapons/vAxe/Materials/Axe_Texture.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6b469c656c8937f4d90b9d0c721702b8
+    m_Address: Assets/Invector-3rdPersonController/Melee Combat/3DModels/vMeleeWeapons/vAxe/Materials/Axe_Material_07.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6e28447ba2c689044ad64c578428b199
+    m_Address: Assets/Invector-3rdPersonController/Shooter/3DModels/Weapons/vWeaponsNew/material/weaponMaterial2.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6491c94dec74c7b49bf4c6ba171832c9
+    m_Address: Assets/Invector-3rdPersonController/Melee Combat/3DModels/vMeleeWeapons/vAxe/Materials/Axe_Material_08.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 40e9795dc02458941a4fce699e5f3b1c
+    m_Address: Assets/Invector-3rdPersonController/Melee Combat/3DModels/Other/meleeCollectable.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 86b9be6fc7905f447979c4292830ad75
+    m_Address: Assets/Invector-3rdPersonController/Melee Combat/3DModels/vMeleeWeapons/vSword/Materials/Sword_V_difuse.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7a701710b904eaa4e87a3391cabbf285
+    m_Address: Assets/Invector-3rdPersonController/Shooter/3DModels/Weapons/vWeaponsNew/mesh/handgun01.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 43325682a15d5494895a88dd54fd3d68
+    m_Address: Assets/Invector-3rdPersonController/Shooter/3DModels/Weapons/vWeaponsNew/mesh/AssaultRifleWithClip.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4fed2d032e065c249aa5dde7175f5e9f
+    m_Address: Assets/Invector-3rdPersonController/Melee Combat/3DModels/vMeleeWeapons/vSword/SwordV_long.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 915e72a372c54b541b37d215c6be8887
+    m_Address: Assets/Invector-3rdPersonController/Melee Combat/3DModels/vMeleeWeapons/vSword/SwordV_short.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8b652964c1cf28a4a8e4a9136ecc2d6e
+    m_Address: Assets/Invector-3rdPersonController/Shooter/3DModels/Weapons/vWeaponsNew/mesh/vShotgun.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d4eaee46c14533841a9e60c522f4d41b
+    m_Address: Assets/Invector-3rdPersonController/Shooter/Scripts/ArcherySystem/Models/Bow/vBow.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7ae5566b03df55a4cb60a0fe5fe7b3e8
+    m_Address: Assets/Invector-3rdPersonController/Melee Combat/3DModels/vMeleeWeapons/vAxe/vAxe.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 78f7f32d0ac256f479929db258d3d078
+    m_Address: Assets/Invector-3rdPersonController/Shooter/3DModels/Weapons/vWeaponsNew/mesh/vShotgun-detach.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 76ee9eee966307a46a2e9392c05955fc
+    m_Address: Assets/Invector-3rdPersonController/Shooter/3DModels/Weapons/vWeaponsNew/mesh/assaultRifle01.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5bf68d15022c6834183817afb427ac52
+    m_Address: Assets/Invector-3rdPersonController/Melee Combat/Audio/BloodHit_B.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 820b4795221a59a4f84bdbb8bc6957e9
+    m_Address: Assets/Invector-3rdPersonController/Basic Locomotion/Audio/RagdollCollision/RagdollCollision.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f0dad368bc2d5944ca75a821ad024ce2
+    m_Address: Assets/Invector-3rdPersonController/Melee Combat/Audio/Knife Hit Wall
+      2.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3bc8b33abc1b51d4badb229b61e36e33
+    m_Address: Assets/Invector-3rdPersonController/Melee Combat/Audio/Knife Hit Wall
+      1.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: bfa1063bd08a3d54595a731677875059
+    m_Address: Assets/Invector-3rdPersonController/Melee Combat/Audio/Knife Hit Wall
+      3.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: eb1a767b35496c84db41ea55405f03b3
+    m_Address: Assets/Invector-3rdPersonController/Melee Combat/Audio/BloodHit_C.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9dd2d71c0c95f9d46aa813a5ea65619d
+    m_Address: Assets/Invector-3rdPersonController/Melee Combat/Audio/BloodHit_A.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1df163d71bd836c4ba422c06e628d62b
+    m_Address: Assets/Invector-3rdPersonController/ItemManager/Textures/New UI/InventoryCamera.renderTexture
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 11f99b0eb9588534482b83985bfb1ce0
+    m_Address: Assets/Invector-3rdPersonController/Shooter/3DModels/Textures/UITextures/aimCameraRender.renderTexture
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 87885946b43e2d1449e1d5aa2042f8a8
+    m_Address: Assets/Invector-3rdPersonController/Shooter/Animator/Invector@ShooterMelee.controller
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 38b271e6460a2944c8ec5ec152011eec
+    m_Address: Assets/Invector-3rdPersonController/ItemManager/UI Animations/CharacterPreview.controller
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7db84b79b9d6e4a4e84f8449c4d5317f
+    m_Address: Assets/Invector-3rdPersonController/Melee Combat/Animator/Invector@MeleeCombat.controller
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e418fdeaf90387b4bb90af70a5d9139b
+    m_Address: Assets/Invector-3rdPersonController/ItemManager/UI Animations/EquipmentPickerWindow.controller
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1c7a637ebb71f034c97397ef794d1f18
+    m_Address: Assets/Invector-3rdPersonController/Basic Locomotion/HUD/_fonts/consola.ttf
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a083ab9b7ed1d6e4384574d90a4d84fe
+    m_Address: Assets/Invector-3rdPersonController/Melee Combat/3DModels/vMeleeWeapons/MeleeWeapon.physicMaterial
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5c4eb2907aba99244aa56c74786e8afb
+    m_Address: Assets/Invector-3rdPersonController/ItemManager/Textures/Keyboard_Black_Q.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 40ff21d17d67df94eb09974b66361d6a
+    m_Address: Assets/Invector-3rdPersonController/ItemManager/Icons/blockIcon.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0fb8fee1fc53dd04080dcbd9abfb254f
+    m_Address: Assets/Invector-3rdPersonController/ItemManager/Textures/xbox-D-pad-UI.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9dc1b1e35a44b5a4da340dd179166361
+    m_Address: Assets/Invector-3rdPersonController/Basic Locomotion/HUD/keyboardIcons/ActionButton@Keyboard.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8fd63fe471a60144db50f65bddcccb91
+    m_Address: Assets/Invector-3rdPersonController/ItemManager/Textures/selector.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 00be83b6072dcb54d99b77cad2982277
+    m_Address: Assets/Invector-3rdPersonController/ItemManager/Textures/Keyboard_Black_Esc.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 40e348f6451ddf7438089a59a033e57f
+    m_Address: Assets/Invector-3rdPersonController/ItemManager/Icons/Melee/shield.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: cfea15071ee3a4543ba205f132c5da33
+    m_Address: Assets/Invector-3rdPersonController/Basic Locomotion/HUD/gamePadIcons/A.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4bb0b2379f8b29747bf8879d5d243d17
+    m_Address: Assets/Invector-3rdPersonController/Shooter/3DModels/Textures/UITextures/aim
+      mask.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 53094e77a3548374dba3d80da1d001d2
+    m_Address: Assets/Invector-3rdPersonController/ItemManager/Icons/ConsumableIcon.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 466e5fa7adb3ec4418d4b038a1cdee18
+    m_Address: Assets/Invector-3rdPersonController/ItemManager/Textures/New UI/top_shadow.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7d624e48b1aa5c44f907f1c545fa1654
+    m_Address: Assets/Invector-3rdPersonController/ItemManager/Textures/Keyboard_Black_E.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e5b85f980b56dd64f8f9109ddc078f09
+    m_Address: Assets/Invector-3rdPersonController/ItemManager/Textures/New UI/radial_shadow.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b7846239ccacd9e468eb2a5a4f7ae7fb
+    m_Address: Assets/Invector-3rdPersonController/ItemManager/Textures/Keyboard_White_Mouse_Right.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 05e9f75981229cc42bf698bde36dd83c
+    m_Address: Assets/Invector-3rdPersonController/Shooter/3DModels/Textures/UITextures/scopeMask.psd
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0c1b7e594895f664c9398cae0d1ff726
+    m_Address: Assets/Invector-3rdPersonController/ItemManager/Icons/slot_bg.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c34bea79fcbd9d7458e1c3ffa1a76232
+    m_Address: Assets/Invector-3rdPersonController/ItemManager/Textures/New UI/bg.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a2adaa3af0ef3874cbb557c21520006f
+    m_Address: Assets/Invector-3rdPersonController/ItemManager/Icons/Shooter/sniperCrossHair.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8dc51cda0181c2d43b33a9c9eb0be2c5
+    m_Address: Assets/Invector-3rdPersonController/ItemManager/Icons/ShooterMeleeIcon.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2543085bfa25fdf4e83209d086ee24be
+    m_Address: Assets/Invector-3rdPersonController/Basic Locomotion/HUD/other/enemyHealth.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 359a7ebb90d1a2c4eba5c493a73ca543
+    m_Address: Assets/Invector-3rdPersonController/ItemManager/Icons/Melee/sword.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 65afb4cbeb47dc14ea879b97a296e19f
+    m_Address: Assets/Invector-3rdPersonController/Shooter/3DModels/Textures/UITextures/Background.psd
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ea0d838cbf6720f4e8559bf42912aa62
+    m_Address: Assets/Invector-3rdPersonController/Basic Locomotion/HUD/keyboardIcons/keyboardControls_v2.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 01d3e53d273032943aea91fcae79d03d
+    m_Address: Assets/Invector-3rdPersonController/Basic Locomotion/HUD/gamePadIcons/joystickControls_v2.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8270511eda46c334bafe3d775f5b81ea
+    m_Address: Assets/Invector-3rdPersonController/Basic Locomotion/HUD/other/damage.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 394e93ce356b57344903a08ff72fcab2
+    m_Address: Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/Textures/DustMoteParticle.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: aec9f2ee0b044c14a98913380c6170b1
+    m_Address: Assets/Invector-3rdPersonController/ItemManager/Textures/Keyboard_White_Mouse_Left.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5d50597fdb5ae444091af97dfcaedd62
+    m_Address: Assets/Invector-3rdPersonController/Shooter/3DModels/Textures/UITextures/Aim.psd
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: dfea19d1d34dd174d87195f78cb44ae7
+    m_Address: Assets/Invector-3rdPersonController/Basic Locomotion/Scripts/FootStep/AudioSource/AudioSource.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 04dd09560119f3c48ba23669eb660db1
+    m_Address: Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/Particles/DamageEffect/prefabs/recoilMetal.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f2c21a5084b380e45af41fac8083c307
+    m_Address: Assets/Invector-3rdPersonController/Melee Combat/Scripts/LockOn/Prefabs/lockOnSprite.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 96e918a0f3173b14dbbbe08b7523b670
+    m_Address: Assets/Invector-3rdPersonController/ItemManager/ItemListData/vMelee_ItemListData.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4829d3f3f836f18438f3704d11f0eff4
+    m_Address: Assets/Invector-3rdPersonController/Basic Locomotion/Scripts/FootStep/AudioSurfaces/gravelSurface.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8616a8d80006bfb4d9069ea692c278da
+    m_Address: Assets/Invector-3rdPersonController/Basic Locomotion/Scripts/CharacterCreator/CameraStates/vShooterMelee@CameraState.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1493f9d9326e8014494b8cb04de38f25
+    m_Address: Assets/Invector-3rdPersonController/ItemManager/ItemListData/vShooterMelee_ItemListData.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 710c74baecce50746bd56b9711c851e7
+    m_Address: Assets/Invector-3rdPersonController/Basic Locomotion/Scripts/FootStep/AudioSurfaces/defaultSurface.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 63dd85acb3dbe1746ab7200f610a2d5f
+    m_Address: Assets/Invector-3rdPersonController/Shooter/Scripts/Shooter/Shooter_AmmoListData.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8b7cb4519e09fe649ba2a93cef734768
+    m_Address: Assets/Invector-3rdPersonController/ItemManager/Prefabs/Other/ItemCollectionTextHUD.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7a4e3d0d8be5f4841bebbb2cd8f9198d
+    m_Address: Assets/Invector-3rdPersonController/ItemManager/Prefabs/Other/ItemSlot.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0b82c8fd6acd3d34e9a56b779dba0a41
+    m_Address: Assets/Invector-3rdPersonController/Melee Combat/Prefabs/Weapons/DualSwords_Secundary_Inventory.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a3fbbcc09ca525a4fb28ae4a2066ea11
+    m_Address: Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/Animations/Ladder_Action_Animation_R.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d061db31840de5840905cbb32d538280
+    m_Address: Assets/Invector-3rdPersonController/Shooter/Scripts/ArcherySystem/Animations/V-bot@Bow.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 12e47c51ad139a64ab80bb5d185aeb96
+    m_Address: Assets/Invector-3rdPersonController/Melee Combat/3DModels/Animations/Melee_StrafeMoveset.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 061f92917f3344e46a181210cd2be5f8
+    m_Address: Assets/Invector-3rdPersonController/Basic Locomotion/Audio/FootSteps/Gravel/gravel2.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: bf4dc8a29061ade4f883afade616675c
+    m_Address: Assets/Invector-3rdPersonController/Shooter/3DModels/Animations/Shooter_StrafeMoveset.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 169f75c2c9f5fae4c9147639256eb0c8
+    m_Address: Assets/Invector-3rdPersonController/Basic Locomotion/Audio/FootSteps/Asphalt/Asphalt
+      (4).wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 13d2640367521314591db34597e3f5d6
+    m_Address: Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/Animations/Basic_StrafeMoveset.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e6b69fa3aa7d71543b631e73a8d4edaa
+    m_Address: Assets/Invector-3rdPersonController/Basic Locomotion/Audio/FootSteps/Gravel/gravel3.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 009c43c371cbf974f860ee540816fa3d
+    m_Address: Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/Animations/vTurnOnSpotAnimations.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ec252b34ba485ba43bc0874d3afbb01f
+    m_Address: Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/Characters/Invector@V-Bot/Textures/rusted-metal.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b1c7c7d4caa72b64581a1a4f54eaccdb
+    m_Address: Assets/Invector-3rdPersonController/ItemManager/UI Animations/EquipPickSlide.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 69283fa587189144f84ab04d95160843
+    m_Address: Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/Textures/prototype_textures/Textures/vTile.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: aa5bbac58df167347a5a83e5bb713114
+    m_Address: Assets/Invector-3rdPersonController/ItemManager/3D Models/Materials/UIOnTopShader.shader
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 37c6cfe59f56e8a4799011397a870a8b
+    m_Address: Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/Animations/Basic_FreeMovement.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4e1fb206ba078db4491fdfe3a2bf0d2a
+    m_Address: Assets/Invector-3rdPersonController/Melee Combat/3DModels/vMeleeWeapons/vSword/SwordV_long.fbm/Sword_V_difuse.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: da29dc06830beb446bcfafbf72a11bc7
+    m_Address: Assets/Invector-3rdPersonController/Shooter/3DModels/Animations/Shooter_UpperBodyPoses.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ff40507644016314f945ecd7e6a050e0
+    m_Address: Assets/Invector-3rdPersonController/Shooter/Scripts/ArcherySystem/Animations/V-bot@Bow.fbm/vBow_Difuse.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 50016857087368141803f41af4837830
+    m_Address: Assets/Invector-3rdPersonController/Basic Locomotion/Scripts/FootStep/Particles/smoke.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 38141b57aad88e74da415dd92083b9de
+    m_Address: Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/Animations/Ladder_Action_Animation_L.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 36b2a5a7f988c3a49a8dcb97c82f3055
+    m_Address: Assets/Invector-3rdPersonController/Basic Locomotion/Audio/FootSteps/Gravel/gravel1.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a63f18b704a1b874a8dad30baf0939e6
+    m_Address: Assets/Invector-3rdPersonController/Basic Locomotion/Audio/Mixers/FootMixer.mixer
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: fcf4e2e7a48ce5541aff038f423960a7
+    m_Address: Assets/Invector-3rdPersonController/Melee Combat/3DModels/vMeleeWeapons/vSword/SwordV_long.fbm/Sword_V_normal.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 763ef6481f64ff044b076930e3e76ba2
+    m_Address: Assets/Invector-3rdPersonController/Basic Locomotion/Audio/FootSteps/Gravel/gravel5.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1f866668884214b4db7140d25b0def17
+    m_Address: Assets/Invector-3rdPersonController/Basic Locomotion/Audio/FootSteps/Asphalt/Asphalt
+      (2).wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ebf981998fc4b914bacac811142e8102
+    m_Address: Assets/Invector-3rdPersonController/Melee Combat/3DModels/vMeleeWeapons/vAxe/vAxe.fbm/Axe_Texture.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5eaab4c94e2c4224dbde8bf202505a4f
+    m_Address: Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/Animations/Basic_Actions.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5f2b686adeb8b4e499b250e99781cc9f
+    m_Address: Assets/Invector-3rdPersonController/Melee Combat/3DModels/Animations/WeakAttack_UnarmedB_v2.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5cbf4dba6e3b40040938560663d850cc
+    m_Address: Assets/Invector-3rdPersonController/Basic Locomotion/Audio/FootSteps/Gravel/gravel.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a01238fa7a5ea6343aa78fa4f98baf3f
+    m_Address: Assets/Invector-3rdPersonController/Shooter/3DModels/Animations/Shooter_Archery.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ff99acfa1d071974f8bb384261383187
+    m_Address: Assets/Invector-3rdPersonController/Melee Combat/3DModels/Animations/WeakAttack_UnarmedA_v3.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9d25760db74c03649814f9fa3504306d
+    m_Address: Assets/Invector-3rdPersonController/Shooter/3DModels/Particles/Textures/faisca_5.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a20dc24d1fa089b4e989d195dc6b8121
+    m_Address: Assets/Invector-3rdPersonController/Shooter/3DModels/Animations/Bow_Reload.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 325a507d48fda384fa119f766f5c51a7
+    m_Address: Assets/Invector-3rdPersonController/Basic Locomotion/Audio/FootSteps/Gravel/gravel4.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 229c64ed39310624c9aada3d771c7b06
+    m_Address: Assets/Invector-3rdPersonController/Basic Locomotion/Audio/FootSteps/Asphalt/Asphalt
+      (1).wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b8cf3efdf419ad74f8c0f66ab6418371
+    m_Address: Assets/Invector-3rdPersonController/Basic Locomotion/Scripts/FootStep/Particles/SimpleStepMark.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7094a13e7d7c8da4ea66182a1d2de61d
+    m_Address: Assets/Invector-3rdPersonController/Shooter/Scripts/ArcherySystem/Animations/V-bot@Bow.fbm/vBow_Normal.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 189ebc7e46127c648a3f23eb9696b629
+    m_Address: Assets/Invector-3rdPersonController/ItemManager/UI Animations/CharacterPreviewSlide.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 632f8ebe81a772e4998224dabbbf836b
+    m_Address: Assets/Invector-3rdPersonController/Shooter/3DModels/Animations/Shooter_Shot&Reload.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 71a860de405aaeb44ace152c21808003
+    m_Address: Assets/Invector-3rdPersonController/Melee Combat/3DModels/Animations/Melee_CombatSet.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 375af61fe5c06774084832c408e31683
+    m_Address: Assets/Invector-3rdPersonController/Basic Locomotion/Audio/FootSteps/Asphalt/Asphalt
+      (7).wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4f40922fa4f66bc4fbc281d0cd575187
+    m_Address: Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/Animations/NewRollv2.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c3a1832fc34384546a0023f184c00755
+    m_Address: Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/Animations/VbotLadderSlide.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: bd68d75f916fcab4797c60bb57d4c952
+    m_Address: Assets/Invector-3rdPersonController/Melee Combat/3DModels/Animations/Melee_Strafe2HandMoveset.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e5ae416f49602c1409e7c0d85ae0215c
+    m_Address: Assets/Invector-3rdPersonController/Basic Locomotion/Audio/FootSteps/Asphalt/Asphalt
+      (3).wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c3c0c59f9953f8e4f928646fbafc1c83
+    m_Address: Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/Characters/Invector@V-Bot/Textures/carbon-fiber.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 08fee9000d2110549ad7d0f93ac2f983
+    m_Address: Assets/Invector-3rdPersonController/Basic Locomotion/Audio/Others/slide
+      (3).wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 60fdfa301881bae48ae59759cc83b842
+    m_Address: Assets/Invector-3rdPersonController/Melee Combat/Audio/slash_B.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a0ef3c70b27799d409935f45a6537bb0
+    m_Address: Assets/Invector-3rdPersonController/Shooter/Prefabs/Weapon/_weapons_WITH_Inventory/_weaponsPrefabs/vHandgun_Inventory.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d03b45803e637bb4fb00a1ca9030d66e
+    m_Address: Assets/Invector-3rdPersonController/Melee Combat/Prefabs/Weapons/GreatSword_Inventory.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 774e07b04df89da44ba1bc3922c1ebee
+    m_Address: Assets/Invector-3rdPersonController/Shooter/Prefabs/Weapon/_weapons_WITH_Inventory/_ammo/vAmmoShotgun_Inventory.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 245136d0d8b7c3749aadee9aff5703a3
+    m_Address: Assets/Invector-3rdPersonController/Basic Locomotion/Audio/Others/jump
+      (4).wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f0df66e0950da4642afce9f6382ab231
+    m_Address: Assets/Invector-3rdPersonController/Melee Combat/Prefabs/Weapons/DualSwords_Primary_Inventory.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 82e1301117619a8438d81f2a34317ce6
+    m_Address: Assets/Invector-3rdPersonController/ItemManager/Icons/Shooter/handgunAmmo_icon.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 29c64441cf150e1478de24e3252446ec
+    m_Address: Assets/Invector-3rdPersonController/Shooter/Prefabs/Weapon/_weapons_WITH_Inventory/_collectables/vCollectableRPG.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 09867a516d66b7d42bbe651bb2204313
+    m_Address: Assets/Invector-3rdPersonController/ItemManager/Icons/Shooter/handgunIcon.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6bbee781522ce5243a02bf72cd914cf5
+    m_Address: Assets/Invector-3rdPersonController/Melee Combat/Prefabs/Weapons/GreatKatana_Inventory.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5dc53aa14e78ec54fbf2281c1abb7f47
+    m_Address: Assets/Invector-3rdPersonController/Melee Combat/Prefabs/Weapons/ShortSword_Inventory.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 885921b1f22b03c4ea2a72710092bb51
+    m_Address: Assets/Invector-3rdPersonController/Basic Locomotion/Audio/Others/jump
+      (5).wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 95173cd142940384c81611787936f938
+    m_Address: Assets/Invector-3rdPersonController/Shooter/Prefabs/Weapon/_weapons_WITH_Inventory/_weaponsPrefabs/vAssaultRifle_Inventory_v2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c34afd223de25df498932cfa325cd0ea
+    m_Address: Assets/Invector-3rdPersonController/Melee Combat/Audio/Hit 1.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a3eb0e42ce9a6764094c26b92bd7a9f4
+    m_Address: Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/Particles/DamageEffect/materials/recoilMetal.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 72f7d3138d397a94d82105b26272e764
+    m_Address: Assets/Invector-3rdPersonController/ItemManager/Icons/vKeyCards.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f82a7d93926f978479349ce3a9e025f6
+    m_Address: Assets/Invector-3rdPersonController/Melee Combat/Audio/slash_C.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4f038aa3db9cf9d4cace8c95a2c62f18
+    m_Address: Assets/Invector-3rdPersonController/Shooter/Prefabs/Weapon/_weapons_WITH_Inventory/_ammo/vAmmoRPG_Inventory.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b937b1c35b810f8439e6b1df783cb32b
+    m_Address: Assets/Invector-3rdPersonController/Shooter/Prefabs/Weapon/_weapons_WITH_Inventory/_ammo/vAmmoHandgun_Inventory.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e53efed3927a7254aa010f9c6752223c
+    m_Address: Assets/Invector-3rdPersonController/Shooter/Prefabs/Weapon/_weapons_WITH_Inventory/_weaponsPrefabs/vShotgun_Inventory.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7799f4e3c66ec9b47a45552ab162ea87
+    m_Address: Assets/Invector-3rdPersonController/ItemManager/Icons/Shooter/rpgAmmo_icon.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1e6c72f3eacde6c4fa1f5824e22ce56c
+    m_Address: Assets/Invector-3rdPersonController/Shooter/3DModels/Weapons/vRifle/Prefabs/vCollectable_vRifle.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 818977a4c087ba84c850add89b52d169
+    m_Address: Assets/Invector-3rdPersonController/Basic Locomotion/Audio/Others/jump
+      (1).wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: adec6ca436555694f9b67251716d6768
+    m_Address: Assets/Invector-3rdPersonController/Shooter/Scripts/ArcherySystem/Prefabs/vBow_Inventory.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d4ca9135af96d5142987a1f1427b099a
+    m_Address: Assets/Invector-3rdPersonController/Melee Combat/Prefabs/Weapons/GreatShield_Inventory.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a42f47c5b82df4f4d8fa88ad8a6f90b7
+    m_Address: Assets/Invector-3rdPersonController/Shooter/Prefabs/Weapon/_weapons_WITH_Inventory/_ammo/vAmmoAssaultRifle_Inventory.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7eb4296630a683045b816e7d7816e5cd
+    m_Address: Assets/Invector-3rdPersonController/Shooter/Prefabs/Weapon/_weapons_WITH_Inventory/_ammo/vAmmoSniper_Inventory.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b13b1a669dda56f4cbd8fb0d831eec76
+    m_Address: Assets/Invector-3rdPersonController/Shooter/Prefabs/Weapon/_weapons_WITH_Inventory/_collectables/vCollectableSniper.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0cf98a7633e41834ba19e8626f1ceadc
+    m_Address: Assets/Invector-3rdPersonController/Melee Combat/Prefabs/Weapons/Axe_Inventory.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4a46b7c6ff6f17a4a95bfb58b3397585
+    m_Address: Assets/Invector-3rdPersonController/ItemManager/Icons/Melee/greatShield.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 75c369d61ea60a54e877b01a25ae0916
+    m_Address: Assets/Invector-3rdPersonController/ItemManager/Icons/Melee/vKatana_Long_Icon.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 08b5a5b778d6952438c6b3bedaa1e6af
+    m_Address: Assets/Invector-3rdPersonController/Melee Combat/Audio/slash_G.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: cf28841817afdab4c8060f470a322c37
+    m_Address: Assets/Invector-3rdPersonController/ItemManager/Prefabs/Other/CollectableEquipment.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0cf8e5588722acf40bfed44d2b39a429
+    m_Address: Assets/Invector-3rdPersonController/ItemManager/Icons/Shooter/shotgunIcon.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c22783d87d4115647a7ac6cd8a128c20
+    m_Address: Assets/Invector-3rdPersonController/Basic Locomotion/Audio/Others/jump
+      (3).wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b2158c09d5bc7284989f53a47f7638e3
+    m_Address: Assets/Invector-3rdPersonController/ItemManager/Icons/Melee/axes.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c9d537197cc153745a468a97ec00241f
+    m_Address: Assets/Invector-3rdPersonController/Shooter/Prefabs/Weapon/_weapons_WITH_Inventory/_weaponsPrefabs/vSniper_Inventory.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 69ab469920acd8446811a35d739760fb
+    m_Address: Assets/Invector-3rdPersonController/ItemManager/Icons/Shooter/arrowAmmo_icon.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 10985e0a98068c944b35d7025cbac53e
+    m_Address: Assets/Invector-3rdPersonController/Basic Locomotion/Audio/Others/slide
+      (1).wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ece88c1afc659094e93bccace77fab7a
+    m_Address: Assets/Invector-3rdPersonController/Melee Combat/Prefabs/Items/Inventory_Collectables/Collectable_PotionHealthUp.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8bbf808ac1be0f84ab505cfdb9eb83b4
+    m_Address: Assets/Invector-3rdPersonController/Melee Combat/Prefabs/Items/Inventory_Collectables/Collectable_PotionHealth.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e26f928aabf2af048b7def78ec83a486
+    m_Address: Assets/Invector-3rdPersonController/Melee Combat/Prefabs/Items/Inventory_Collectables/Collectable_Great
+      Shield.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3d4a18aad5edd964db61c63dc8c475bb
+    m_Address: Assets/Invector-3rdPersonController/Shooter/Scripts/ArcherySystem/Prefabs/vAmmoArrows.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 720e39bac05da5048b9276f12dd7b342
+    m_Address: Assets/Invector-3rdPersonController/Melee Combat/Audio/Block 2.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a7eb39caa37204044ae09aa0c8699270
+    m_Address: Assets/Invector-3rdPersonController/ItemManager/Icons/Melee/V_potion_stamina.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 763836da888842349a25cd7daf28a752
+    m_Address: Assets/Invector-3rdPersonController/Shooter/Prefabs/Weapon/_weapons_WITH_Inventory/_collectables/vCollectableShotgun.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4ce32edaf6024884898e95f24f9f763a
+    m_Address: Assets/Invector-3rdPersonController/Melee Combat/Prefabs/Items/Inventory_Collectables/Collectable_Axe.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 38ebe90b46d37bd47822899bd47a318a
+    m_Address: Assets/Invector-3rdPersonController/Shooter/Prefabs/Weapon/_weapons_WITH_Inventory/_collectables/vCollectableHandgun.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5bf5901be61ca8f4980147086570884c
+    m_Address: Assets/Invector-3rdPersonController/Melee Combat/Audio/Hit 2.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: eca1e51be6676704dbb7f23b4947883b
+    m_Address: Assets/Invector-3rdPersonController/Melee Combat/Prefabs/Items/Inventory_Collectables/Collectable_Great
+      Sword.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 43ec053b9c111644e80b4ddb5f535508
+    m_Address: Assets/Invector-3rdPersonController/Melee Combat/Prefabs/Weapons/ShortKatana_Inventory.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 490b027b4bc17844c86dfb0e3f50ba97
+    m_Address: Assets/Invector-3rdPersonController/Shooter/Prefabs/Weapon/_weapons_WITH_Inventory/_weaponsPrefabs/vRPG_Inventory.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f6cfffab8b48ab1498161d83bea40058
+    m_Address: Assets/Invector-3rdPersonController/ItemManager/Icons/Shooter/vRifleIcon.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2ee2406ca1e8f7c4b97dd764b1a47e71
+    m_Address: Assets/Invector-3rdPersonController/Basic Locomotion/Audio/Others/slide
+      (2).wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 25e7bf6c702446e47bbc7ce3a6aaaeb5
+    m_Address: Assets/Invector-3rdPersonController/Melee Combat/Prefabs/Items/Inventory_Collectables/Collectable_Dual
+      Swords.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: aee2019cc66545a4f985b398633282d9
+    m_Address: Assets/Invector-3rdPersonController/Melee Combat/Audio/Hit 3.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c9bcb3ac64db75147b5fde5864fdfcb2
+    m_Address: Assets/Invector-3rdPersonController/ItemManager/Icons/Shooter/rifleIcon.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0f25b0bc9b7934840b324072cedb3325
+    m_Address: Assets/Invector-3rdPersonController/Melee Combat/Prefabs/Items/Inventory_Collectables/Collectable_Short
+      Sword.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2232bbcc5a195274c9744c2c6352e910
+    m_Address: Assets/Invector-3rdPersonController/Melee Combat/Prefabs/Weapons/SmallShield_Inventory.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d514a70d9dfd1ec459bbec7c9799555a
+    m_Address: Assets/Invector-3rdPersonController/Shooter/Prefabs/Weapon/_weapons_WITH_Inventory/_collectables/vCollectibleAssaultRifle.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 862e9f0d31ea667448a05c4d0ec24492
+    m_Address: Assets/Invector-3rdPersonController/ItemManager/Icons/Melee/V_potion_health.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e0eb8d1db3e78644d91a55867c743c37
+    m_Address: Assets/Invector-3rdPersonController/Basic Locomotion/Audio/Others/jump
+      (2).wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 711d9e1db66d2334aa75bb3d48a326c5
+    m_Address: Assets/Invector-3rdPersonController/ItemManager/Icons/Melee/Bow_Icon.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 71509c5d804e82d4bab6ecd153b20f9f
+    m_Address: Assets/Invector-3rdPersonController/ItemManager/Icons/Shooter/sniperIcon.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a568bb7d845ecf140a30a74582d14f45
+    m_Address: Assets/Invector-3rdPersonController/ItemManager/Icons/Melee/dualSwordsIcon.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 439b229da101b06419a0a87e0f4cef84
+    m_Address: Assets/Invector-3rdPersonController/Melee Combat/Prefabs/Items/Inventory_Collectables/Collectable_PotionStaminaUp.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0f2c84cd3287333448744ce0451196cd
+    m_Address: Assets/Invector-3rdPersonController/Melee Combat/Prefabs/Items/Inventory_Collectables/Collectable_Short
+      Katana.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 56e79d7e38be01c4c9171802884dfb05
+    m_Address: Assets/Invector-3rdPersonController/ItemManager/Icons/Melee/vKatana_Icon.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 84a9728ecf8756d42985f612cb2e1cf4
+    m_Address: Assets/Invector-3rdPersonController/ItemManager/Icons/Shooter/shotgunAmmo_icon.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7dcfb29ec0c968041b99dd41d13cec28
+    m_Address: Assets/Invector-3rdPersonController/Melee Combat/Prefabs/Items/Inventory_Collectables/Collectable_Great
+      Katana.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: cf35a39ed3f005d49bf846fdd9eee7a0
+    m_Address: Assets/Invector-3rdPersonController/Melee Combat/Audio/slash_E.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 686309ee74ddecf4881a11c0f29efcc6
+    m_Address: Assets/Invector-3rdPersonController/ItemManager/Icons/Melee/V_potion_mana.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e60fbeee962473a4bb627f9d7dc341b0
+    m_Address: Assets/Invector-3rdPersonController/ItemManager/Icons/Melee/consumable_area.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d488746f170863748a00445cf31c5420
+    m_Address: Assets/Invector-3rdPersonController/Melee Combat/Audio/Block 1.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 38df296fcdf156f46bdb7a40cc3359b1
+    m_Address: Assets/Invector-3rdPersonController/ItemManager/Icons/Shooter/sniperAmmo_icon.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 89ba1f6f55195c944aad86c1767dfe52
+    m_Address: Assets/Invector-3rdPersonController/ItemManager/Icons/Shooter/rpgIcon.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d07ef1bfe3f5bf4469394a9c723bbbc1
+    m_Address: Assets/Invector-3rdPersonController/Melee Combat/Prefabs/Items/Inventory_Collectables/Collectable_Small
+      Shield.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c3dd4ebfc318b3540a68356bd99e0a85
+    m_Address: Assets/Invector-3rdPersonController/ItemManager/Icons/Shooter/assautAmmo_Icon.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 33cb40cfd0904344d8306765a5600135
+    m_Address: Assets/Invector-3rdPersonController/Shooter/3DModels/Weapons/vRifle/Prefabs/vRifleShooterEdition.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 224b63efdb81fec4fad3a6a5cfde8bc8
+    m_Address: Assets/Invector-3rdPersonController/Basic Locomotion/Audio/Others/rollFx.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 68199bff0f78a2d4ca77e20ccc91ef76
+    m_Address: Assets/Invector-3rdPersonController/ItemManager/Icons/Melee/greatSword.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e4b92db50a8412c4284f30fee589dfa5
+    m_Address: Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/Particles/DamageEffect/textures/recoilMetal.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 225843b6084e75440a6ea970a17c93aa
+    m_Address: Assets/Invector-3rdPersonController/Basic Locomotion/Scripts/FootStep/Materials/ParticleSmokeVertlit.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b10e654cb30db34489b832dbfbb54370
+    m_Address: Assets/Invector-3rdPersonController/Melee Combat/Scripts/LockOn/Textures/lockOnSprite.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 86e4a8709e440314e8fe56622c9e6162
+    m_Address: Assets/Invector-3rdPersonController/Shooter/Audio/Weapons/EmptyClip_B.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: dab4dfa00ed487b44bf0f2c9115a3da3
+    m_Address: Assets/Invector-3rdPersonController/Shooter/Audio/Weapons/NewWeaponSounds/LightWeaponShot2.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f529edf069c022b44a8225230b947f85
+    m_Address: Assets/Invector-3rdPersonController/Shooter/Audio/Weapons/RPG@Reload.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e7d53cc2fd45cce47a9dd9b17b7668a6
+    m_Address: Assets/Invector-3rdPersonController/Shooter/Audio/Weapons/NewWeaponSounds/MediumWeaponUmAim.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5b303ff28ad9368468a2edd759cf458d
+    m_Address: Assets/Invector-3rdPersonController/Basic Locomotion/Scripts/FootStep/Textures/ParticleCloudWhite.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 50181d03f42034b4da3a8c48ce086e2d
+    m_Address: Assets/Invector-3rdPersonController/Shooter/Audio/Weapons/NewWeaponSounds/WeaponEquip.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4de48263cb1c7954caf2de077128408a
+    m_Address: Assets/Invector-3rdPersonController/Shooter/Prefabs/Weapon/_bullets/vGrenadeRifle.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 67972f63215fcdf439dd82687b88af79
+    m_Address: Assets/Invector-3rdPersonController/Shooter/Audio/Weapons/Sniper@Shot.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a16c0f7348674944f84b445509080684
+    m_Address: Assets/Invector-3rdPersonController/Shooter/Audio/Weapons/RPG@Fire.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d0419404a667f6e47ae5704cd366ffa3
+    m_Address: Assets/Invector-3rdPersonController/Shooter/Audio/Weapons/NewWeaponSounds/WeaponEquip3.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a3c47d05e2db5d2469c40c5304cdb283
+    m_Address: Assets/Invector-3rdPersonController/Shooter/Audio/Weapons/NewWeaponSounds/MediumWeaponAim.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9c5ac02550d31504ebb57020dde8e988
+    m_Address: Assets/Invector-3rdPersonController/Shooter/Audio/Weapons/EmptyClip_A.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 097e8235e0162d64ba53da9ef4ab8d61
+    m_Address: Assets/Invector-3rdPersonController/Shooter/Audio/Weapons/Rifle@Fire.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 51167016d084309499498271caa6d1c7
+    m_Address: Assets/Invector-3rdPersonController/Shooter/Prefabs/Weapon/_bullets/vRPGAmmo.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 22773fb6a3ebd59429b49fd6e288058e
+    m_Address: Assets/Invector-3rdPersonController/Shooter/Prefabs/Weapon/_bullets/vDefaultBullet.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2b6a41a7e8f643b4293751cf8f5b5e07
+    m_Address: Assets/Invector-3rdPersonController/Shooter/Audio/Weapons/NewWeaponSounds/LightWeaponShot3.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ea7806193c11d7c4d9f10b8b68ee5a9b
+    m_Address: Assets/Invector-3rdPersonController/Shooter/Prefabs/Weapon/_bullets/vGrenadeRifle2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 01e188d9a1958f94e8165dec0c1e068a
+    m_Address: Assets/Invector-3rdPersonController/Shooter/Audio/Weapons/PumpShotgun@Reload2.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ecafa5f9bdf3f5649a48fe139969081b
+    m_Address: Assets/Invector-3rdPersonController/Shooter/Audio/Weapons/NewWeaponSounds/MediumWeaponAimC.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 97cc681a105798a44916efd675389042
+    m_Address: Assets/Invector-3rdPersonController/Shooter/Audio/Weapons/NewWeaponSounds/WeaponEquip2.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: fe90135ad668a394287ca68605d4763b
+    m_Address: Assets/Invector-3rdPersonController/Shooter/Audio/Weapons/PumpShotgun@FireB.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 738c223bd0668c3439f38211ce5dbd9a
+    m_Address: Assets/Invector-3rdPersonController/Shooter/Audio/Weapons/NewWeaponSounds/MediumWeaponUmAimB.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f4b0865c53d458d49a58b67d16d4b711
+    m_Address: Assets/Invector-3rdPersonController/Shooter/Audio/Weapons/Rifle@Reload.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: cc03a3bc3d3003c428240bcd6e12c487
+    m_Address: Assets/Invector-3rdPersonController/Shooter/Audio/Weapons/Handgun@Reload.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2802fefc8471eb645bb6914a0c2e23dc
+    m_Address: Assets/Invector-3rdPersonController/Shooter/Audio/Weapons/PumpShotgun@Reload3.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9b2ce00d16b72c34a9b46200421a6def
+    m_Address: Assets/Invector-3rdPersonController/Shooter/Audio/Weapons/Rifle@EmptyClip.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 72dd93adac6d2ed45b72f9e9ddf0a131
+    m_Address: Assets/Invector-3rdPersonController/Shooter/Audio/Weapons/NewWeaponSounds/LightWeaponUmAim.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 857d9a2ed5ad45f49b045759e805a51c
+    m_Address: Assets/Invector-3rdPersonController/Shooter/Prefabs/Weapon/_bullets/vGrenadeRifle3.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3708806e828002547b07099a479a0e59
+    m_Address: Assets/Invector-3rdPersonController/Shooter/Audio/Weapons/Sniper@Reload.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f00ac47e5c7659440a21afd1175d8f20
+    m_Address: Assets/Invector-3rdPersonController/Shooter/Audio/Weapons/NewWeaponSounds/LightWeaponAim.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3ffc5f8e36fb2ec46bced7c9ec75797e
+    m_Address: Assets/Invector-3rdPersonController/Shooter/Audio/Weapons/NewWeaponSounds/MediumWeaponUmAimC.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ef1015be63ea9a94e9842b72298f9a5f
+    m_Address: Assets/Invector-3rdPersonController/Shooter/Audio/Weapons/NewWeaponSounds/LightWeaponShot.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 474e7c6f7335c654b87664989ca4d692
+    m_Address: Assets/Invector-3rdPersonController/Shooter/Scripts/ArcherySystem/Prefabs/ArrowProjectile.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c677a1dfc1dc957488e822af0d4e7e46
+    m_Address: Assets/Invector-3rdPersonController/Shooter/Scripts/ArcherySystem/Models/Bow/Invector_Bow.controller
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3e0b60810bebf8240b09c8206b25d082
+    m_Address: Assets/Invector-3rdPersonController/Shooter/3DModels/Weapons/Animation/Invector_Shotgun.controller
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a965510870aca1d4ca438b3ca729988a
+    m_Address: Assets/Invector-3rdPersonController/Shooter/Prefabs/Particles/Explosion/Explosion_A.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f0031d2f9e062d64a88344acdacbcb95
+    m_Address: Assets/Invector-3rdPersonController/Shooter/Prefabs/Weapon/_weapons_WITH_Inventory/_weaponsPrefabs/RifleClip.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: bafe0df184460ad48959c8cfbaa6df5d
+    m_Address: Assets/Invector-3rdPersonController/Shooter/Scripts/ImpactEffect/ImpactEffects/ImpactEffect@Metal.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9cf8fdb35fce3c748ba3e6d6502cf435
+    m_Address: Assets/Invector-3rdPersonController/Shooter/Scripts/ArcherySystem/Prefabs/ArrowLifeSettings.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 537539c32a6167248b7005fa8612f575
+    m_Address: Assets/Invector-3rdPersonController/Shooter/Prefabs/Weapon/_bullets/BulletLifeSettings.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8527e9d390af89a4daabd35d3516123b
+    m_Address: Assets/Invector-3rdPersonController/Shooter/Scripts/ImpactEffect/ImpactEffects/ImpactEffect@Glass.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: db72c2d5ee90cb74a93631822e36cd03
+    m_Address: Assets/Invector-3rdPersonController/Shooter/3DModels/Particles/Materials/scope.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c0ff2d16bbab9f44ba42c0191a303694
+    m_Address: Assets/Invector-3rdPersonController/Shooter/Scripts/ImpactEffect/ImpactEffects/ImpactEffect@Concrete.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 738736f6ade870648957ea31fd538a5e
+    m_Address: Assets/Invector-3rdPersonController/Shooter/3DModels/Weapons/vWeaponsNew/mesh/Materials/weaponMaterial2.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: bbe9a3f845cc73b498188d55a1c6abed
+    m_Address: Assets/Invector-3rdPersonController/Basic Locomotion/Scripts/FootStep/Materials/step.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 238e2f89e0987a54ba7569496b118e32
+    m_Address: Assets/Invector-3rdPersonController/Shooter/3DModels/Weapons/vRifle/Animations/Invector_Rifle.controller
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e1a8fa6bf2308344993f0b8168b5a00c
+    m_Address: Assets/Invector-3rdPersonController/Shooter/Scripts/ImpactEffect/ImpactEffects/ImpactEffect@Dirt.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e822bc7b2f166504d9019daa78036bb8
+    m_Address: Assets/Invector-3rdPersonController/Shooter/3DModels/Weapons/vWeaponsNew/mesh/AssaultRifleWithClip_v2.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: fcc7248b6f746954384a23fff2e8676e
+    m_Address: Assets/Invector-3rdPersonController/Shooter/Scripts/ImpactEffect/ImpactEffects/ImpactEffect@Barrel.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ec647edb005ce054292afe6b66e8edfa
+    m_Address: Assets/Invector-3rdPersonController/Shooter/Scripts/ImpactEffect/ImpactEffects/ImpactEffect@Wood.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 850ca38c0bc85e04f8a7bd491c3724fc
+    m_Address: Assets/Invector-3rdPersonController/Shooter/Scripts/ArcherySystem/Models/Bow/Materials/vArrow_Difuse.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 57a37d0f9faed714d9a3eedc6907bd5f
+    m_Address: Assets/Invector-3rdPersonController/Shooter/3DModels/Weapons/Animation/PumpAction.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7e9e93405c7057945aabdd4c2d0b3c4a
+    m_Address: Assets/Invector-3rdPersonController/Melee Combat/3DModels/vMeleeWeapons/vKatana/FBX/vKatana_Long.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 53cbc0e0fd100404897cfdc54c23dd80
+    m_Address: Assets/Invector-3rdPersonController/Shooter/Scripts/ArcherySystem/Models/Bow/Arrow.controller
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c512de3148c07f64fa69ed177c939cc1
+    m_Address: Assets/Invector-3rdPersonController/Shooter/3DModels/Weapons/vWeaponsNew/mesh/vRPG01.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d8603b41eb2844649b9e02a41d1e1ad2
+    m_Address: Assets/Invector-3rdPersonController/Shooter/3DModels/Particles/Materials/fire.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: adcc07c1b4d949244958f04e8b4afad7
+    m_Address: Assets/Invector-3rdPersonController/Shooter/Scripts/DecalManager/Decals/vDecal_ConcreteA.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 37bfbff171bd89c43ac9903ebb346af4
+    m_Address: Assets/Invector-3rdPersonController/Shooter/Scripts/ArcherySystem/Animations/V-bot@Bow.fbm/vArrow_Normal.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4ceb2a723353b4c49a0e6824aab16ca8
+    m_Address: Assets/Invector-3rdPersonController/Shooter/3DModels/Particles/Materials/capsule_rif.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8efaaea277981b44aa80668ae5c814b2
+    m_Address: Assets/Invector-3rdPersonController/Shooter/Prefabs/Particles/Explosion/Materials/Fire_static.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a2281ad257ce4024aa14c0a2e6bb44fd
+    m_Address: Assets/Invector-3rdPersonController/Shooter/3DModels/Weapons/vRifle/Animations/vRiflePower_Pulse.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f3e234a3e6b1a3149932573730da6a05
+    m_Address: Assets/Invector-3rdPersonController/Shooter/3DModels/Weapons/vRifle/Animations/vRiflePower.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7dd479543444c5144b3c1966b17fca06
+    m_Address: Assets/Invector-3rdPersonController/Shooter/Scripts/DecalManager/Decals/vDecal_DirtA.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e2c2f874f7e808a4bb99b90c5c0d3652
+    m_Address: Assets/Invector-3rdPersonController/Shooter/Scripts/DecalManager/Decals/vDecal_Barrel.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 26311cd458aac1a44841948bdbe225e8
+    m_Address: Assets/Invector-3rdPersonController/Melee Combat/3DModels/vMeleeWeapons/vKatana/FBX/vKatana.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: fa7d4475dc3142843b220a2f24e6b960
+    m_Address: Assets/Invector-3rdPersonController/Shooter/Scripts/ArcherySystem/Models/Bow/AnimatedArrow.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8426eee56b825664594bb6d0d1678a1d
+    m_Address: Assets/Invector-3rdPersonController/Shooter/3DModels/Particles/Materials/capsule_pist.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 57dda1262bff1c541a37c7eb3df8ff68
+    m_Address: Assets/Invector-3rdPersonController/Shooter/Scripts/DecalManager/Decals/vDecal_WoodA.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1b131df6def5c584388fda0f0938427c
+    m_Address: Assets/Invector-3rdPersonController/Shooter/3DModels/Weapons/vWeaponsNew/mesh/RPG_missel01.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e90698275d0219e4197e3021925bd22f
+    m_Address: Assets/Invector-3rdPersonController/Shooter/Scripts/DecalManager/Decals/vDecal_GlassA.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c77abc477d4de2a4197e1f08cebc364e
+    m_Address: Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/Others/ObjectPhysics.physicMaterial
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: cfbea5674e4ddfe4a894852b68b7d925
+    m_Address: Assets/Invector-3rdPersonController/Shooter/Scripts/ArcherySystem/Animations/V-bot@Bow.fbm/vArrow_Difuse.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2ba3d4484a5881f4c9f7a19acf133a59
+    m_Address: Assets/Invector-3rdPersonController/Shooter/3DModels/Weapons/vWeaponsNew/mesh/vSniper01.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e9bfd998f3f20bb40ac6c1f25bd49c7c
+    m_Address: Assets/Invector-3rdPersonController/Shooter/3DModels/Props/bullets/materials/bulletCollectable.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 84f28c6a10dbe8148aaa8fe054515689
+    m_Address: Assets/Invector-3rdPersonController/Shooter/Scripts/DecalManager/Decals/vDecal_MetalA.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d8520d4b87af5bd48b84f8e3d6fc8caf
+    m_Address: Assets/Invector-3rdPersonController/Shooter/3DModels/Particles/Materials/capsule_shotgun.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e24bbbeb25aaffe43ad3fc7b06fa5170
+    m_Address: Assets/Invector-3rdPersonController/Basic Locomotion/Scripts/FootStep/Textures/step.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1529461d937a8274a99c03ccc8fbc6a2
+    m_Address: Assets/Invector-3rdPersonController/Basic Locomotion/Scripts/FootStep/Textures/step2.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ec0f565d6359fc249beb359ac317df46
+    m_Address: Assets/Invector-3rdPersonController/ItemManager/3D Models/collectable.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8f296f6d91a261e42b6dedb2b123ce72
+    m_Address: Assets/Invector-3rdPersonController/Melee Combat/3DModels/vMeleeWeapons/vShield/vShield.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1269a1be7cb02214e8d549f83a377132
+    m_Address: Assets/Invector-3rdPersonController/ItemManager/3D Models/Materials/collectable.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6db293de3dfbd2b44b78b174b89c48f7
+    m_Address: Assets/Invector-3rdPersonController/Shooter/3DModels/Particles/Materials/Bright_long.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 23a81faf40912804b936f5f2e5bf8ba8
+    m_Address: Assets/Invector-3rdPersonController/Shooter/3DModels/Particles/Materials/smoke_fire.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d6db4900bc78ba34387f6046ff1f475f
+    m_Address: Assets/Invector-3rdPersonController/Shooter/3DModels/Weapons/vRifle/Materials/vRifle_Difuse.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 463557700de24204f975e2f5cbaf3d9e
+    m_Address: Assets/Invector-3rdPersonController/ItemManager/3D Models/Materials/potionStamina.001.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 74410c11648afe24ab4cbd6292ae99f3
+    m_Address: Assets/Invector-3rdPersonController/ItemManager/3D Models/Materials/healthUp.002.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2d53cb41186c73e4785778cf54111d12
+    m_Address: Assets/Invector-3rdPersonController/Shooter/3DModels/Particles/Textures/explosion.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: fcd49da1846aa334fb26346d8891081e
+    m_Address: Assets/Invector-3rdPersonController/ItemManager/3D Models/Materials/potionStamina.003.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: bf5874e16a20ba648b5d74ca8ba32a56
+    m_Address: Assets/Invector-3rdPersonController/Melee Combat/3DModels/vMeleeWeapons/vShield/Materials/vShield_difuse.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d278e302e4a038149b3e666e897b5dc6
+    m_Address: Assets/Invector-3rdPersonController/Shooter/3DModels/Particles/Textures/bullet.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 03ba3f92c30eb7146ae3d5b91e4a7fd9
+    m_Address: Assets/Invector-3rdPersonController/ItemManager/3D Models/Materials/potionHealth.000.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e5ff61849ffbbc94b8ac09191f9d6b96
+    m_Address: Assets/Invector-3rdPersonController/Melee Combat/3DModels/vMeleeWeapons/vKatana/Materials/vKatana_01.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 87537c84d5c90ee47acca7d25014e6ed
+    m_Address: Assets/Invector-3rdPersonController/Shooter/3DModels/Props/bullets/fbx/bullet.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2858eb05d16b9e84ca67d6ac12251a0d
+    m_Address: Assets/Invector-3rdPersonController/ItemManager/3D Models/Materials/healthUp.000.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 71475eb6bb9caea49b0cfafe4eff52dd
+    m_Address: Assets/Invector-3rdPersonController/Shooter/3DModels/Particles/Textures/bullet_pistol.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 018a22874c9793b449671a40457592b1
+    m_Address: Assets/Invector-3rdPersonController/Shooter/3DModels/Weapons/vRifle/FBX/vWeapon2.0.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 78cb2397de8403d4196b5cec469e84ca
+    m_Address: Assets/Invector-3rdPersonController/ItemManager/3D Models/Texture/colletable-texture
+      1.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5ce966a7157214c4695a24d32e801275
+    m_Address: Assets/Invector-3rdPersonController/Shooter/3DModels/Particles/Textures/smoke_fire.psd
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f69dc9f78d4fec84aadb03a23def8c41
+    m_Address: Assets/Invector-3rdPersonController/ItemManager/3D Models/Materials/healthUp.001.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: af750708db6d7504dbdd396c16d5a460
+    m_Address: Assets/Invector-3rdPersonController/ItemManager/3D Models/Materials/collectable
+      1.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f672ea7954cdd2143b5b874699e82655
+    m_Address: Assets/Invector-3rdPersonController/Melee Combat/3DModels/vMeleeWeapons/vKatana/Materials/vKatana_02.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 77370da96e7edcc4e96d3e4424a5af47
+    m_Address: Assets/Invector-3rdPersonController/ItemManager/3D Models/Materials/potionHealth.003.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 832daff9940428646bb1c49c04eeedac
+    m_Address: Assets/Invector-3rdPersonController/Shooter/3DModels/Weapons/vWeaponsNew/material/AimEmmiter.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7386c91a9f7f56f489229e51dc3c9152
+    m_Address: Assets/Invector-3rdPersonController/Shooter/Prefabs/Particles/Explosion/Materials/DirtStreak.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9bac7a2a6fe81c546b86cbf97b857a6e
+    m_Address: Assets/Invector-3rdPersonController/ItemManager/3D Models/Materials/potionStamina.000.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0546ff6a5b37fda4d9aac767a3ea7c79
+    m_Address: Assets/Invector-3rdPersonController/ItemManager/3D Models/Materials/healthUp.003.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 064a65dad86971548a4395d52fc3a2a8
+    m_Address: Assets/Invector-3rdPersonController/Shooter/3DModels/Particles/Textures/bullet_shotgun.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5b0fff1cce03fb34dafb1155e9caf794
+    m_Address: Assets/Invector-3rdPersonController/Melee Combat/3DModels/Textures/vTexture/redline.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6ad0c12cca130ae4dac48dac8dd02425
+    m_Address: Assets/Invector-3rdPersonController/ItemManager/3D Models/Materials/potionHealth.001.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d58ff9fcc0d12f244b4ccb2280bb708f
+    m_Address: Assets/Invector-3rdPersonController/Melee Combat/3DModels/vMeleeWeapons/vKatana/Materials/vKatana_04.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 813e5ded68c204445b6937304d696843
+    m_Address: Assets/Invector-3rdPersonController/ItemManager/3D Models/Materials/potionHealth.002.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9abd6c2e7a229c74fa3ba0ece6363f4c
+    m_Address: Assets/Invector-3rdPersonController/Shooter/Prefabs/Particles/Explosion/Materials/Smoke_static.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: bd45254f7e8250942979bb5f4b8298b7
+    m_Address: Assets/Invector-3rdPersonController/ItemManager/3D Models/v_potion.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f9e6c09f3989fe340a77fbc486bed230
+    m_Address: Assets/Invector-3rdPersonController/Shooter/Prefabs/Particles/Explosion/Textures/FireB.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5d35539fd6bad1b4c963b07f0903a6b3
+    m_Address: Assets/Invector-3rdPersonController/ItemManager/3D Models/Materials/potionStamina.002.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3511a2bf3cdf579419a51771a57962c2
+    m_Address: Assets/Invector-3rdPersonController/Melee Combat/3DModels/vMeleeWeapons/vKatana/Materials/vKatana_03.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 153863505e005b34294c5d646db9f697
+    m_Address: Assets/Invector-3rdPersonController/Shooter/Prefabs/Particles/Explosion/Textures/DirtStreaks.psd
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a7593b22638106c4cb5c538e2d89153f
+    m_Address: Assets/Invector-3rdPersonController/Shooter/3DModels/Weapons/vRifle/Materials/vWeapon_b_grenade_difuse.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 082a5b83024b35042a596590c1dc503d
+    m_Address: Assets/Invector-3rdPersonController/Basic Locomotion/Scripts/FootStep/Materials/ParticleSmokeVertlit
+      2.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 432e4bb43bf13d54290efa943ff4a151
+    m_Address: Assets/Invector-3rdPersonController/Shooter/3DModels/Weapons/vRifle/Textures/vRifle_Emmiter_mask.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8ec63d951ff463a4985389face0b59e6
+    m_Address: Assets/Invector-3rdPersonController/Shooter/3DModels/Weapons/vRifle/Textures/vRifle_Emmiter.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: efb982a77916fcf48a40f214743522ed
+    m_Address: Assets/Invector-3rdPersonController/Melee Combat/3DModels/vMeleeWeapons/vKatana/Textures/vKatana_Normal.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: cc908ae8e2c4bd44ca99ad6d6f6944dd
+    m_Address: Assets/Invector-3rdPersonController/Shooter/Prefabs/Particles/Explosion/Textures/smoke_static.psd
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: fc690c299374bb54abd461bf9ab033b7
+    m_Address: Assets/Invector-3rdPersonController/Melee Combat/3DModels/Textures/vTexture/redline.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 55d21989553a04b45bf27a3a8905417f
+    m_Address: Assets/Invector-3rdPersonController/Shooter/3DModels/Props/bullets/materials/lambert1.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2447387afca3a1747b476b37c7741e1e
+    m_Address: Assets/Invector-3rdPersonController/Melee Combat/3DModels/Textures/vTexture/redDote.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ce69950b13e665d418ec3ac5ecaec17e
+    m_Address: Assets/Invector-3rdPersonController/Shooter/3DModels/Weapons/vRifle/Materials/vEmissionWithMask.shader
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 73c9a86b90e92a148a822ebc17402d36
+    m_Address: Assets/Invector-3rdPersonController/Shooter/3DModels/Textures/UITextures/LaserAim.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3ff548cb6c06b4840b3ae047d56d488f
+    m_Address: Assets/Invector-3rdPersonController/Shooter/3DModels/Weapons/vRifle/Materials/Scope_Difuse.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d12e3adc40200aa4a88fee6644bed046
+    m_Address: Assets/Invector-3rdPersonController/Melee Combat/3DModels/vMeleeWeapons/vShield/vShield.fbm/vShield_difuse.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 298665fdb9265cf40abc99ad0b518d40
+    m_Address: Assets/Invector-3rdPersonController/Shooter/3DModels/Weapons/vRifle/Textures/vRifle_Normal.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 561823ae1a99aff4bb213bbd3ca724a7
+    m_Address: Assets/Invector-3rdPersonController/Shooter/3DModels/Weapons/vWeaponsNew/material/ScopeLens.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ec8054bf8593fac4a9c76c188e381d31
+    m_Address: Assets/Invector-3rdPersonController/Melee Combat/3DModels/vMeleeWeapons/vKatana/Textures/vKatana_Difuse.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 89f946df718e184439c8ab6aefd6e23c
+    m_Address: Assets/Invector-3rdPersonController/Shooter/3DModels/Weapons/vRifle/Textures/vRifle_Difuse.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 737e2b33512effa4ea9d3629163e9f83
+    m_Address: Assets/Invector-3rdPersonController/Shooter/3DModels/Particles/Materials/aim.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4ce72ed3ccbf199408373093268c9ffa
+    m_Address: Assets/Invector-3rdPersonController/Shooter/3DModels/Weapons/vRifle/Textures/vRifle_Grenade_Difuse.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2b09e034ca4296047993ed266a80d617
+    m_Address: Assets/Invector-3rdPersonController/Shooter/3DModels/Weapons/vWeaponsNew/material/ScopeLens.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e71bfe064482e49448691578c9bd04d6
+    m_Address: Assets/Invector-3rdPersonController/Shooter/3DModels/Weapons/vRifle/Textures/Scope_Normal.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 28d06b6b763fcbe4eaafec31f77d42de
+    m_Address: Assets/Invector-3rdPersonController/Shooter/3DModels/Weapons/vWeaponsNew/material/ScopeLensEmmiter.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f84099ebf76b5674983a39e67b961290
+    m_Address: Assets/Invector-3rdPersonController/Shooter/3DModels/Weapons/vRifle/Textures/vRidle_Grenade_Normal.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3abe3e0e889502a47938f825e6c2dba2
+    m_Address: Assets/Invector-3rdPersonController/Shooter/3DModels/Weapons/vRifle/Textures/Scope_Difuse.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d62b0b5fabab51d43a0080c19db2c17c
+    m_Address: Assets/Invector-3rdPersonController/Shooter/3DModels/Textures/UITextures/Aim-3.psd
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 68c902126d1e5bb48973f698c07ff293
+    m_Address: Assets/Invector-3rdPersonController/Shooter/Scripts/DecalManager/Materials/vDecalMaterial.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 08b350e61df81f24d97072896d29546e
+    m_Address: Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/Textures/SurfacesTextures/bulletDecals.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: bfa8483abfa97d24bad56a350c087a40
+    m_Address: Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/Textures/SurfacesTextures/bulletDecals
+      2.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 959c1cbafdf30694e8bab91d433cf5b4
+    m_Address: Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/Textures/SurfacesTextures/bulletDecals
+      1.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c533df60b88740f49b1abb3c87d861dc
+    m_Address: Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/Textures/prototype_textures/Materials/vjumpMultiplier.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9a47f97112907c14c922c5f56fc6f87a
+    m_Address: Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/Others/Materials/Ladder_2.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f31f0391f259cfb41a4980938a35740b
+    m_Address: Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/Others/HealthItem/Materials/health-01.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2e23f77229be3224dbd1cd73d77ab2dc
+    m_Address: Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/Textures/prototype_textures/Materials/ladder_Metal.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1beaec239d93b834d8276eee2627b4b0
+    m_Address: Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/Others/HealthItem/Materials/health-02.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 87c49955c34ae7b4ea0728abce9f75d8
+    m_Address: Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/Textures/prototype_textures/Materials/proto_blue.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8975961753f14df47996f4a383999365
+    m_Address: Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/Others/HealthItem/Materials/Material.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3dfffd5a5d9d6c747ba693ecf451d511
+    m_Address: Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/Others/Materials/Ladder_1.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2e7bd0abfe5f58b42bbcefc85fb04d77
+    m_Address: Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/Textures/prototype_textures/Materials/proto_mobile.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1795eb7cc68729e4f972ec1d79e7e996
+    m_Address: Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/Characters/Invector@V-Bot/Materials/V-bot-white.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 23b270fd728652740aff62aef34e0081
+    m_Address: Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/Textures/prototype_textures/Materials/proto_gray.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3805243f7383ee740acbc079d3c7b38f
+    m_Address: Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/Others/Materials/mobile_cube.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0efea8e0c1e8eeb4688d7619f24ea10e
+    m_Address: Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/Others/HealthItem/sphere-health.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 66a74de1d4a081e49b0a790722fd06ab
+    m_Address: Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/Characters/Invector@V-Bot/FBX/vBot@lowpoly.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4aac3562201e6b94691c7d38eb0f1a59
+    m_Address: Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/Others/NewAssets/jumpOver.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0130b7c2b068b2f49b712102425914ac
+    m_Address: Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/Others/OldAssets/support01.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: dfa9def7b0f762348b814e52da8a7df3
+    m_Address: Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/Others/NewAssets/BigRoom.obj
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b48fb3796b71ffc469dc80482dbd9a4c
+    m_Address: Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/Others/NewAssets/Icosphere.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c0ee7e8903ab31240810e785f93fc733
+    m_Address: Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/Others/NewAssets/columnB.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 73348b7adf3513e4a93a45f24402ef9b
+    m_Address: Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/Others/Ladder.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 68137dca1db60f14eb9d5286101a6de6
+    m_Address: Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/Others/NewAssets/stepUp.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 33467abb1755ec142a053756c3f7f87f
+    m_Address: Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/Others/HealthItem/health.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5cb6aa9d694ecb54b8c755340b908a91
+    m_Address: Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/Others/NewAssets/climbUp.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5f352a3546f0f2848bced2329205b4e7
+    m_Address: Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/Animations/Other/LogoAnimation.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d1863870c30433a4ba76e25cae037eec
+    m_Address: Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/Textures/prototype_textures/Textures/download.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 58723db35144fa3419de380a72e55c18
+    m_Address: Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/Textures/prototype_textures/Textures/metal.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: bdfae0d7fc4c1b448a22995843c79ff8
+    m_Address: Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/Others/HealthItem/sphereHealthTexture.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7ef1a8798f9d51948a22b15079683baf
+    m_Address: Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/Textures/prototype_textures/Textures/proto-white.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4885bf6ba9cd8a349927aa0d2e8d1f30
+    m_Address: Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/Textures/prototype_textures/Textures/vpoison-old-normal.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 51d9447b92b0b71478ae6178f249cf89
+    m_Address: Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/Textures/prototype_textures/Textures/vspring.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c64df1cff1fb4fb49ac5ced10b53a060
+    m_Address: Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/Textures/prototype_textures/Textures/NormalMap
+      (2).png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 76cad7efae20b4946a39d05ab461cfce
+    m_Address: Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/Characters/Invector@V-Bot/Textures/V-bot-texture_clean.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: bbe3709136bbfc947ba4dd440bd633eb
+    m_Address: Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/Characters/Invector@V-Bot/Materials/V-bot-mobile@Color.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 77bdd6e103307384797bc8477bac88e1
+    m_Address: Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/vOctagon/Materials/light.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 404138e866b65de4e978510443a8d0c2
+    m_Address: Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/Textures/prototype_textures/Materials/proto_green.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e273db19c8bd7704099afa4200e56a2c
+    m_Address: Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/Characters/Invector@V-Bot/FBX/Materials/V-bot-texture.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9623ac7bdcf9ed942880df4431857700
+    m_Address: Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/vOctagon/Materials/octa.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 03f5669cd6400294abad98057cacd07c
+    m_Address: Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/vOctagon/Materials/edges.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6bacfe8fec5efc14b8c1704a0cb71b29
+    m_Address: Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/Others/Materials/invector-logo.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7833def81b73bca41ad546b5df04dd1d
+    m_Address: Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/vOctagon/octagon.FBX
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 45ea23f27318ed649980676cf0a5bc83
+    m_Address: Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/Characters/Invector@V-Bot/Textures/V-bot-normal.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c25ef166a30274f4a9cdc9b17f4541d4
+    m_Address: Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/vOctagon/Normal-min.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: abc8c66608194874b8178aef8308f1b0
+    m_Address: Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/Characters/Invector@V-Bot/Textures/V-bot-texture.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 249a192f22568994ebad5cacab129d7a
+    m_Address: Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/vOctagon/Albedo-min.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 421b891ff49317b4c8a72e6d8d782cd4
+    m_Address: Assets/Invector-3rdPersonController/Shooter/3DModels/Props/targetPractice/Materials/targetPractice.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 931fe4100a385c04e8cf6ed9e5c13a94
+    m_Address: Assets/Invector-3rdPersonController/Shooter/3DModels/Props/targetPractice/sign.obj
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7360bbdd3851d924195351880e06b9d1
+    m_Address: Assets/Invector-3rdPersonController/Shooter/3DModels/Props/targetPractice/Support01.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 08d781d2411aa4a41b60c84b60c87c98
+    m_Address: Assets/Invector-3rdPersonController/Basic Locomotion/Scripts/CharacterCreator/CameraStates/vFastShooter@CameraState.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f2bf2461e03f2a84683e6cbdf17ccc3f
+    m_Address: Assets/Invector-3rdPersonController/Shooter/3DModels/Props/targetPractice/targetPractice.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3d52a7359f08214449b99208080d745b
+    m_Address: Assets/Invector-3rdPersonController/Shooter/3DModels/Props/cardboard/Textures/metal_A/metal_NRM.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 19ada061e49c42a4a893cd04a49e76b9, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 2edcf8dc82b746b4c98d7266157b440f, type: 2}
+    - {fileID: 11400000, guid: 3ebf252337ce90b4c9563e5b2e8f1f23, type: 2}
