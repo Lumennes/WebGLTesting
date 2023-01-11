@@ -3,7 +3,6 @@
     <type fullname="AsyncOperationProgressExample" preserve="all" />
     <type fullname="DualSwordExample" preserve="all" />
     <type fullname="Invector.Utils.vComment" preserve="all" />
-    <type fullname="Invector.Utils.vEntityPreview" preserve="all" />
     <type fullname="Invector.Utils.vEventWithDelay" preserve="all" />
     <type fullname="Invector.Utils.vFadeCanvas" preserve="all" />
     <type fullname="Invector.Utils.vInstantiate" preserve="all" />
@@ -27,14 +26,11 @@
     <type fullname="Invector.vCharacterController.vJumpMultiplierTrigger" preserve="all" />
     <type fullname="Invector.vCharacterController.vLockOn" preserve="all" />
     <type fullname="Invector.vCharacterController.vMeleeCombatInput" preserve="all" />
-    <type fullname="Invector.vCharacterController.vOnDeadTrigger" preserve="all" />
     <type fullname="Invector.vCharacterController.vPunchingBag" preserve="all" />
     <type fullname="Invector.vCharacterController.vRagdoll" preserve="all" />
     <type fullname="Invector.vCharacterController.vShooterMeleeInput" preserve="all" />
     <type fullname="Invector.vCharacterController.vThirdPersonController" preserve="all" />
     <type fullname="Invector.vCharacterController.vThirdPersonInput" preserve="all" />
-    <type fullname="Invector.vCharacterController.vThrowManager" preserve="all" />
-    <type fullname="Invector.vCharacterController.vThrowUI" preserve="all" />
     <type fullname="Invector.vDestroyGameObject" preserve="all" />
     <type fullname="Invector.vEventSystems.vAnimatorEvent" preserve="all" />
     <type fullname="Invector.vEventSystems.vAnimatorEventReceiver" preserve="all" />
@@ -80,7 +76,6 @@
     <type fullname="Invector.vItemManager.vToolbarButton" preserve="all" />
     <type fullname="Invector.vItemManager.vToolbarSelector" preserve="all" />
     <type fullname="Invector.vItemManager.vUnequipItemToArea" preserve="all" />
-    <type fullname="Invector.vItemManager.vWeaponHolderManager" preserve="all" />
     <type fullname="Invector.vLookAtCamera" preserve="all" />
     <type fullname="Invector.vLookTarget" preserve="all" />
     <type fullname="Invector.vMelee.vCollectMeleeControl" preserve="all" />
@@ -92,7 +87,6 @@
     <type fullname="Invector.vMelee.vMeleeManager" preserve="all" />
     <type fullname="Invector.vMelee.vMeleeWeapon" preserve="all" />
     <type fullname="Invector.vMelee.vRandomAttackBehaviour" preserve="all" />
-    <type fullname="Invector.vMessageReceiver" preserve="all" />
     <type fullname="Invector.vObjectDamage" preserve="all" />
     <type fullname="Invector.vPendulum" preserve="all" />
     <type fullname="Invector.vPlayRandomClip" preserve="all" />
@@ -104,7 +98,6 @@
     <type fullname="Invector.vShooter.vBulletLifeSettings" preserve="all" />
     <type fullname="Invector.vShooter.vControlAimCanvas" preserve="all" />
     <type fullname="Invector.vShooter.vDecalManager" preserve="all" />
-    <type fullname="Invector.vShooter.vDrawHideShooterWeapons" preserve="all" />
     <type fullname="Invector.vShooter.vImpactEffect" preserve="all" />
     <type fullname="Invector.vShooter.vLaserSight" preserve="all" />
     <type fullname="Invector.vShooter.vLockOnShooter" preserve="all" />
@@ -112,18 +105,13 @@
     <type fullname="Invector.vShooter.vProjectileControl" preserve="all" />
     <type fullname="Invector.vShooter.vShooterManager" preserve="all" />
     <type fullname="Invector.vShooter.vShooterWeapon" preserve="all" />
-    <type fullname="Invector.vShooter.vWeaponIKAdjust" preserve="all" />
-    <type fullname="Invector.vShooter.vWeaponIKAdjustList" preserve="all" />
     <type fullname="Invector.vSliderSizeControl" preserve="all" />
     <type fullname="Invector.vThirdPersonCameraListData" preserve="all" />
     <type fullname="Invector.vTriggerSoundByState" preserve="all" />
     <type fullname="Invector.vWeaponHolder" preserve="all" />
     <type fullname="InvectorJoystick" preserve="all" />
-    <type fullname="LoadScene" preserve="all" />
     <type fullname="LoadSceneByAddress" preserve="all" />
     <type fullname="LoadSceneForCustomBuild" preserve="all" />
-    <type fullname="PrefabSpawnerSample" preserve="all" />
-    <type fullname="ShowFPS" preserve="all" />
     <type fullname="UnityStandardAssets.CrossPlatformInput.MoveCamera" preserve="all" />
     <type fullname="UnityTemplateProjects.SimpleCameraController" preserve="all" />
     <type fullname="vChangeAnimatorUpdateMode" preserve="all" />
@@ -133,29 +121,29 @@
     <type fullname="vSnapToBody" preserve="all" />
     <type fullname="vWeaponCollectableControl" preserve="all" />
     <type fullname="vWeaponConstrain" preserve="all" />
-    <type fullname="Invector.IK.IKAdjust" preserve="nothing" serialized="true" />
-    <type fullname="Invector.IK.IKOffsetSpine" preserve="nothing" serialized="true" />
-    <type fullname="Invector.IK.IKOffsetTransform" preserve="nothing" serialized="true" />
+    <type fullname="Invector.LookPoint" preserve="nothing" serialized="true" />
     <type fullname="Invector.OnDead" preserve="nothing" serialized="true" />
     <type fullname="Invector.OnReceiveDamage" preserve="nothing" serialized="true" />
-    <type fullname="Invector.Utils.vEventWithDelay/vEventWithDelayObject" preserve="nothing" serialized="true" />
-    <type fullname="Invector.vBodySnappingControl/vBoneTransformSnapping" preserve="nothing" serialized="true" />
-    <type fullname="Invector.vCharacterController.AI.vSimpleMeleeAI_Motor/CharacterTarget" preserve="nothing" serialized="true" />
     <type fullname="Invector.vCharacterController.GenericInput" preserve="nothing" serialized="true" />
     <type fullname="Invector.vCharacterController.OnActionHandle" preserve="nothing" serialized="true" />
     <type fullname="Invector.vCharacterController.OnActiveRagdoll" preserve="nothing" serialized="true" />
     <type fullname="Invector.vCharacterController.vActions.OnDoActionWithTarget" preserve="nothing" serialized="true" />
     <type fullname="Invector.vCharacterController.vActions.vOnActionHandle" preserve="nothing" serialized="true" />
     <type fullname="Invector.vCharacterController.vActions.vTriggerGenericAction/OnUpdateValue" preserve="nothing" serialized="true" />
-    <type fullname="Invector.vCharacterController.vLockOn/LockOnEvent" preserve="nothing" serialized="true" />
     <type fullname="Invector.vCharacterController.vThirdPersonMotor/vMovementSpeed" preserve="nothing" serialized="true" />
     <type fullname="Invector.vDamage" preserve="nothing" serialized="true" />
-    <type fullname="Invector.vEventSystems.vAnimatorEventReceiver/vAnimatorEvent" preserve="nothing" serialized="true" />
-    <type fullname="Invector.vEventSystems.vAnimatorEventReceiver/vAnimatorEvent/StateEvent" preserve="nothing" serialized="true" />
     <type fullname="Invector.vEventSystems.vAnimatorStateInfos" preserve="nothing" serialized="true" />
-    <type fullname="Invector.vExplosive/OnUpdateTime" preserve="nothing" serialized="true" />
-    <type fullname="Invector.vHandler" preserve="nothing" serialized="true" />
+    <type fullname="Invector.vEventSystems.vAnimatorTagAdvanced/vAdvancedTags" preserve="nothing" serialized="true" />
+    <type fullname="Invector.vGameController/OnRealoadGame" preserve="nothing" serialized="true" />
     <type fullname="Invector.vHealthController/ValueChangedEvent" preserve="nothing" serialized="true" />
+    <type fullname="Invector.vLookTarget/OnLookEvent" preserve="nothing" serialized="true" />
+    <type fullname="Invector.vObjectDamage/OnHitEvent" preserve="nothing" serialized="true" />
+    <type fullname="Invector.vThirdPersonCameraState" preserve="nothing" serialized="true" />
+    <type fullname="vTagMask" preserve="nothing" serialized="true" />
+    <type fullname="Invector.vBodySnappingControl/vBoneTransformSnapping" preserve="nothing" serialized="true" />
+    <type fullname="Invector.vCharacterController.AI.vSimpleMeleeAI_Motor/CharacterTarget" preserve="nothing" serialized="true" />
+    <type fullname="Invector.vCharacterController.vLockOn/LockOnEvent" preserve="nothing" serialized="true" />
+    <type fullname="Invector.vHandler" preserve="nothing" serialized="true" />
     <type fullname="Invector.vItemManager.ApplyAttributeEvent" preserve="nothing" serialized="true" />
     <type fullname="Invector.vItemManager.ChangeEquipmentControl" preserve="nothing" serialized="true" />
     <type fullname="Invector.vItemManager.EquipPoint" preserve="nothing" serialized="true" />
@@ -171,26 +159,19 @@
     <type fullname="Invector.vItemManager.OnInstantiateItemObjectEvent" preserve="nothing" serialized="true" />
     <type fullname="Invector.vItemManager.OnOpenCloseInventory" preserve="nothing" serialized="true" />
     <type fullname="Invector.vItemManager.OnSelectEquipArea" preserve="nothing" serialized="true" />
-    <type fullname="Invector.vItemManager.vAmmoDisplay/OnChangeAmmoEvent" preserve="nothing" serialized="true" />
     <type fullname="Invector.vItemManager.vCheckItemIsEquipped/CheckItemIDEvent" preserve="nothing" serialized="true" />
+    <type fullname="Invector.vItemManager.vCheckItemIsEquipped/CheckItemTypeEvent" preserve="nothing" serialized="true" />
     <type fullname="Invector.vMelee.HitProperties" preserve="nothing" serialized="true" />
     <type fullname="Invector.vMelee.OnEquipWeaponEvent" preserve="nothing" serialized="true" />
     <type fullname="Invector.vMelee.OnHitEnter" preserve="nothing" serialized="true" />
     <type fullname="Invector.vMelee.vBodyMember" preserve="nothing" serialized="true" />
     <type fullname="Invector.vMelee.vOnHitEvent" preserve="nothing" serialized="true" />
-    <type fullname="Invector.vMessageReceiver/OnReceiveMessageEvent" preserve="nothing" serialized="true" />
-    <type fullname="Invector.vMessageReceiver/vMessageListener" preserve="nothing" serialized="true" />
-    <type fullname="Invector.vShooter.vShooterManager/OnReloadWeapon" preserve="nothing" serialized="true" />
-    <type fullname="Invector.vThirdPersonCameraState" preserve="nothing" serialized="true" />
     <type fullname="vJoystickMouseInput/JoystickAxisInput" preserve="nothing" serialized="true" />
-    <type fullname="vTagMask" preserve="nothing" serialized="true" />
-    <type fullname="Invector.LookPoint" preserve="nothing" serialized="true" />
-    <type fullname="Invector.vEventSystems.vAnimatorTagAdvanced/vAdvancedTags" preserve="nothing" serialized="true" />
-    <type fullname="Invector.vGameController/OnRealoadGame" preserve="nothing" serialized="true" />
-    <type fullname="Invector.vLookTarget/OnLookEvent" preserve="nothing" serialized="true" />
-    <type fullname="Invector.vObjectDamage/OnHitEvent" preserve="nothing" serialized="true" />
-    <type fullname="Invector.vItemManager.vCheckItemIsEquipped/CheckItemTypeEvent" preserve="nothing" serialized="true" />
+    <type fullname="Invector.vItemManager.vAmmoDisplay/OnChangeAmmoEvent" preserve="nothing" serialized="true" />
     <type fullname="Invector.vItemManager.vItemAttribute" preserve="nothing" serialized="true" />
+    <type fullname="Invector.vShooter.vShooterManager/OnReloadWeapon" preserve="nothing" serialized="true" />
+    <type fullname="Invector.vEventSystems.vAnimatorEventReceiver/vAnimatorEvent" preserve="nothing" serialized="true" />
+    <type fullname="Invector.vEventSystems.vAnimatorEventReceiver/vAnimatorEvent/StateEvent" preserve="nothing" serialized="true" />
     <type fullname="Invector.vShooter.vShooterWeapon/IKLocomotionOptions" preserve="nothing" serialized="true" />
     <type fullname="Invector.vShooter.vShooterWeapon/OnChangePowerCharger" preserve="nothing" serialized="true" />
     <type fullname="Invector.vShooter.vShooterWeaponBase/OnDestroyEvent" preserve="nothing" serialized="true" />
@@ -199,10 +180,12 @@
     <type fullname="Invector.vItemManager.vAmmo" preserve="nothing" serialized="true" />
     <type fullname="Invector.vItemManager.vItemSlot/AttributeDisplay" preserve="nothing" serialized="true" />
     <type fullname="Invector.vShooter.vPowerChargeProjectileControl/vProjectilePerPower" preserve="nothing" serialized="true" />
+    <type fullname="Invector.vExplosive/OnUpdateTime" preserve="nothing" serialized="true" />
     <type fullname="Invector.vShooter.vProjectileControl/ProjectileCastColliderEvent" preserve="nothing" serialized="true" />
     <type fullname="Invector.vShooter.vProjectileControl/ProjectilePassDamage" preserve="nothing" serialized="true" />
     <type fullname="vProjectileInstantiateData" preserve="nothing" serialized="true" />
     <type fullname="Invector.vShooter.vDecalManager/DecalObject" preserve="nothing" serialized="true" />
+    <type fullname="Invector.Utils.vEventWithDelay/vEventWithDelayObject" preserve="nothing" serialized="true" />
     <type fullname="Invector.vShooter.vBulletLifeSettings/vBulletLostLife" preserve="nothing" serialized="true" />
   </assembly>
   <assembly fullname="Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
@@ -211,7 +194,6 @@
   </assembly>
   <assembly fullname="Unity.Addressables, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
     <type fullname="UnityEngine.AddressableAssets.Addressables" preserve="all" />
-    <type fullname="UnityEngine.AddressableAssets.AssetReference" preserve="nothing" serialized="true" />
   </assembly>
   <assembly fullname="Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
     <type fullname="UnityEngine.ResourceManagement.ResourceProviders.AssetBundleProvider" preserve="all" />
@@ -256,9 +238,6 @@
     <type fullname="UnityEngine.AudioLowPassFilter" preserve="all" />
     <type fullname="UnityEngine.AudioSource" preserve="all" />
   </assembly>
-  <assembly fullname="UnityEngine.ClothModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
-    <type fullname="UnityEngine.Cloth" preserve="all" />
-  </assembly>
   <assembly fullname="UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="UnityEngine.Camera" preserve="all" />
     <type fullname="UnityEngine.Cubemap" preserve="all" />
@@ -270,7 +249,6 @@
     <type fullname="UnityEngine.LightProbeGroup" preserve="all" />
     <type fullname="UnityEngine.LightProbes" preserve="all" />
     <type fullname="UnityEngine.LineRenderer" preserve="all" />
-    <type fullname="UnityEngine.LODGroup" preserve="all" />
     <type fullname="UnityEngine.Material" preserve="all" />
     <type fullname="UnityEngine.Mesh" preserve="all" />
     <type fullname="UnityEngine.MeshFilter" preserve="all" />
@@ -331,19 +309,19 @@
     <type fullname="UnityEngine.UI.Slider" preserve="all" />
     <type fullname="UnityEngine.UI.Text" preserve="all" />
     <type fullname="UnityEngine.UI.VerticalLayoutGroup" preserve="all" />
+    <type fullname="UnityEngine.EventSystems.EventTrigger/Entry" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.EventSystems.EventTrigger/TriggerEvent" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.UI.AnimationTriggers" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.UI.Button/ButtonClickedEvent" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.UI.ColorBlock" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.UI.FontData" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.UI.MaskableGraphic/CullStateChangedEvent" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.UI.Navigation" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.Slider/SliderEvent" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.UI.SpriteState" preserve="nothing" serialized="true" />
-    <type fullname="UnityEngine.EventSystems.EventTrigger/Entry" preserve="nothing" serialized="true" />
-    <type fullname="UnityEngine.EventSystems.EventTrigger/TriggerEvent" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.UI.InputField/OnChangeEvent" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.UI.ScrollRect/ScrollRectEvent" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.UI.Scrollbar/ScrollEvent" preserve="nothing" serialized="true" />
-    <type fullname="UnityEngine.UI.Slider/SliderEvent" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.UI.Toggle/ToggleEvent" preserve="nothing" serialized="true" />
   </assembly>
   <assembly fullname="UnityEngine.UIModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
