@@ -1,0 +1,533 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Packed Assets
+  m_EditorClassIdentifier: 
+  m_GroupName: Packed Assets
+  m_Data:
+    m_SerializedData: []
+  m_GUID: ff04878b4bc34164dad872a7ea8bc250
+  m_SerializeEntries:
+  - m_GUID: 3452659944bfdcf488f124b38b39f1e5
+    m_Address: ziplineAddon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5b29152fe9729bb4f85dd90fd6a43ee2
+    m_Address: weaponMobileIcon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 95045943865e66b459a28d08499c8f3a
+    m_Address: wallpaper
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 56b7a2fbd53aad443ba0c276ded969cb
+    m_Address: Wall-occ_fully
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 64994417190443b499dde34cd05b52bd
+    m_Address: Wall-nm
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ca66c997d9520d14c8ef74f465b47755
+    m_Address: Wall-albedo_v2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6b253d2d60722be49939ca3b469bea92
+    m_Address: Wall-albedo
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 85c14bd6883ce494bb4a459e80dd4327
+    m_Address: vTriplanar
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ec89101a05bb42d40ab7dc789611325a
+    m_Address: vTopDownAddon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 75c03db3602573440ac98caf1fb7ffd7
+    m_Address: vShooterItemEnumsList
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 966a0115fea23ee4e864c55b8ab0fa59
+    m_Address: vProjectSettings
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: dafe2285f1121474286fea2acea96183
+    m_Address: vPointClickAddon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 747c4add0a2c0984da46610906a9c360
+    m_Address: vMobileAddon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a04437eba3160fb4291bc97d7a753b23
+    m_Address: vMeleeItemEnumsList
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 81795afb7fa33d647a8f3d086556560c
+    m_Address: vMansionIcon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2205b86a551a34d4793195de450497fa
+    m_Address: vMansionAddon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d1d418c4d0b4ab440b62371eb60d8c56
+    m_Address: vItemEnumsList
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 75bf691317e7f334896f42cd8d1b5b28
+    m_Address: vCommentMessageIconColor
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 880c344d601be0945b75629eedda2903
+    m_Address: vCommentMessageIcon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b240927697abbae4aac805afd97adefd
+    m_Address: vCommentEditIcon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3c0e1b5e207308a499ce81bdff1ee945
+    m_Address: Vbot2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d89ba6941d9e3a64a83b05213f91b0c0
+    m_Address: vbg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c5d93cd340b88a24282390f8d5228358
+    m_Address: v2DPlatformAddon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8b7dd3bdbf0ec2a4ab988f5f041c32c8
+    m_Address: Unity-Asset-Store
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 522d5779381621f4bbeafb2706ca6c7f
+    m_Address: unarmedMobileIcon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 65f0ab239a5cfe64897f8b4b02466643
+    m_Address: triggerIcon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6d6435bf3d4f9a140996697712fa260d
+    m_Address: tp_camera
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ab3fd36963dd312479c34fbfdc6f98de
+    m_Address: topdownIcon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3f5b5dff67a942289a9defa416b206f3
+    m_Address: TMP Settings
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 94dea1d9c2a31dc4c8fb50e6f2e62d94
+    m_Address: Thumb
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 81e45dd1813982645811495cb40a6b2c
+    m_Address: textures
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d5bee62c9974267469602e2c42dda181
+    m_Address: TextAreaSkin
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0c5f60d8ac32fc34a9f5bf8132d9bc29
+    m_Address: swordMobileIcon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8f1de13e788ffd24e9177a6687b29158
+    m_Address: switchMobileIcon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 177313a88df715742a9552ff5f743007
+    m_Address: swimmingAddon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4aecb92fff08436c8303b10eab8da368
+    m_Address: Style Sheets
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5f31421fa86e2154995a12ee87a8d724
+    m_Address: stealthKillAddon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ee46373ac2c113445951521d67459ecc
+    m_Address: StatueBase
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f981fdad814cbfb43969712c51317bae
+    m_Address: square
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 512a49d95c0c4332bdd98131869c23c9
+    m_Address: Sprite Assets
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f00401fe90f607e4887ea7f1cb6638f5
+    m_Address: sprintMobileIcon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e45c74350211d0a4595cd1bd0158fe0c
+    m_Address: small_circle
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b73633091f185ef47a93cf3a862e7a60
+    m_Address: ShooterWeaponTemplate
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 041726e4330290b43ac95e1cf84d3636
+    m_Address: ShooterUI
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5ca26f94969346345833c7d6ab308911
+    m_Address: shooterIcon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d20707e94d6582c4bb82c70bda7918f0
+    m_Address: Shared
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 80f75fc88685ee846a2ec4ab279b17e7
+    m_Address: rollMobileIcon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 45af5819bb0a8d04cb736593ae428ffc
+    m_Address: reloadMobileIcon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6d5f66926f86d304eadada78d16964b0
+    m_Address: Reckoner
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 09d7f53ccb0d241498eb37d5b8838f2e
+    m_Address: ragdollIcon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0a47e59833a9d324e955b91bddf6777f
+    m_Address: pushAddon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1e70a13d8a278854bbc5746212800425
+    m_Address: prefabs
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 37bf633cb5edb2145bc588e6afc98e70
+    m_Address: platformIcon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a6b51ebd9c9022e469a9fed765f63938
+    m_Address: mobileIcon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: bd0016d65407db7428ef203c702535b5
+    m_Address: meleeLogo
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4528eb4d1a5e3664c987422a8ad5f83f
+    m_Address: meleeIcon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 58b808be5ad422f40abd21b514c87a63
+    m_Address: Materials
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d9f809d0fb9c3cc4c8b70e6e5b90075a
+    m_Address: Materials
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+  - m_GUID: ec5ad64af89fa764a9c6cf1d285677f8
+    m_Address: Materials
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9ed1941542cea874d989a92eec2c52a7
+    m_Address: materials
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b41c20f228db90a4b8a48d3585f54c4c
+    m_Address: logo
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 712e1695a4058d5468738d2af287dad5
+    m_Address: lockOnMobileIcon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9e1b5a4c48cc7aa4c9766432d52f1ea1
+    m_Address: loading
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d82c1b31c7e74239bff1220585707d2b
+    m_Address: LineBreaking Leading Characters
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: fade42e8bc714b018fac513c043d323b
+    m_Address: LineBreaking Following Characters
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 12becdcf801d9224382fcdef25db8ff8
+    m_Address: LightBox2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 494fe6d88cfabef49b7578a4c0be1e39
+    m_Address: LightBox
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c74f90384bda2214da30b9fe70e73be6
+    m_Address: Light red
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8e00ceae8e2fee74987cd38b45dfeaca
+    m_Address: Light orange
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: bbceefd19212efa4db37b0c208b5545b
+    m_Address: Light blue
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 41ff42cd63b78ee4583a5c755b5d06fd
+    m_Address: ladderIcon 1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0e747fba99f7f5b408f056d26d8d8301
+    m_Address: ladderIcon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1f9337c1d2ba9ed48b90d23ca13f4715
+    m_Address: keyboardIcon 1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9165c128c0f37d147b31bec0223206b7
+    m_Address: Keyboard_Black_V
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7afdc4138a2d3954a85fa1be88e341b5
+    m_Address: Keyboard_Black_U
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: fb3a7deebf9b82147846645ea244ddf5
+    m_Address: Keyboard_Black_B
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0d78e3ba194f81745afe8dc439caad29
+    m_Address: jumpMobileIcon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 60aa5caf6fecc3d4895bd0ef97501c73
+    m_Address: itemManagerIcon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f591c779bb4f25e44ba390d7b62d09a4
+    m_Address: Invector-ShooterWallpaper
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d3c4d19b2099c9943a8f4546fb418f26
+    m_Address: invectorBanner
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a114e0c267353ff4d83c452b2db96b1f
+    m_Address: Invector_vStatue
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9b8e9c469c57ed54f89c575cdf98a1ed
+    m_Address: inputIcon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0536d8ada72a6ac4695386ea4bcd1ebe
+    m_Address: icon_v2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 65d09cff7cef67d47a9d1f9a022f2d84
+    m_Address: HUD
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5dfcf9622f12816418d439efe678683a
+    m_Address: hightlightBox
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2cc6ac6f05e20af43b300aa18c07e157
+    m_Address: HealthControllerIcon2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f43500859ecb28a4ba38691550e11981
+    m_Address: HealthControllerIcon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 49bcffeacbdb5174fab0e61f9b4779cc
+    m_Address: headTrackIcon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0223cc078d1fd7848aa1b53bec54eca1
+    m_Address: grabMobileIcon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f9a1b0c879d687b43a57f6087deb9a1f
+    m_Address: gizmosIcon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 14e286f03a6e23c408d1f395394bb361
+    m_Address: footStepIcon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 731f1baa9d144a9897cb1d341c2092b8
+    m_Address: Fonts & Materials
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 37f223e0a67f76246b008bdad1aaaf02
+    m_Address: EntityPreview
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 848a4494c89203f4e9d2a71ab200d668
+    m_Address: duplicate
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 952880cba6bfb5549a2c2a3f8f65a4a4
+    m_Address: defenseMobileIcon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b8f2fe1ee1a01724cb72f5b0e6bd2eef
+    m_Address: defaultDamageEffect
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ddb231293f1273d4784a11a4b03b1604
+    m_Address: DamageIcon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 852a86a871b25ff4ea50a13a4c391999
+    m_Address: customBox
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9e24091eafee2bc4cbb3a3f6c17261b2
+    m_Address: crouchMobileIcon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: eb080c8722aa8ab41803a7a38800053a
+    m_Address: craftingAddon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0678abd941823e043af5c3289b783269
+    m_Address: coverAddon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6c5d1b15d970101418b18830d15bea5d
+    m_Address: controllerIcon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7dab9951a4483be4c9d25bc3e32f9f85
+    m_Address: climbAddon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6f4828d9e447f524f8fdc4f4fe331c0d
+    m_Address: clickToMoveIcon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a8e6fbe3fbd38014294c948853c1e3ed
+    m_Address: circle
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8206c16a0e05a4f42b865ceb54bf0fac
+    m_Address: button-153683_640
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 402805c5625269b49beb34649a86a4d1
+    m_Address: button_skin
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e292a6d3c6f4e7640849f34d8ba9dd4c
+    m_Address: builderAddon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 619921f8b2787f54e8198bd8b9b6ef0b
+    m_Address: BoxShadown
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9343ecc466b190245b24789e1fc2f085
+    m_Address: boxLight
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 66ea7f6b43ba67c438c6ecebcc5a5c0c
+    m_Address: BoxHover
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 74661375bb0a1fd42bb3297c24c9e2c5
+    m_Address: Box
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0a82a438a84ee6f42a66f0cce9e6e3c9
+    m_Address: big_circle
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4ddfbc94bd928e04098f9d9dd4c4a19d
+    m_Address: bgButtonFade
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a8f74dbf0f81e504bbbdf3f6063e1047
+    m_Address: BebasKai-Regular
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f75e2b1809ad796469251378de80ccb1
+    m_Address: basicLogo
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0085f005184a4064690308838d1f3c3a
+    m_Address: BarBg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f23960c57772d294cb804a41dc1b0a22
+    m_Address: banner 1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6645ecd309a2a99439549c5cc7b2e480
+    m_Address: banner
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e1a8f09cdbaa19448ab8a5f3ad07e310
+    m_Address: bagMobileIcon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: dc1ddc3a350682b47b97a43d6f349b0d
+    m_Address: arrowDownIcon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 70af1da0e0d43db40b07cfa769db3dc0
+    m_Address: Arrow_up
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 38902a3d1c31f224c84c952275933a3b
+    m_Address: Arrow_down
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0e87adf7dc073204ca818b06d3d6fe56
+    m_Address: arrow
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8885e5bb145592344b16964a16a1a14f
+    m_Address: ammoIcon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9b8bde27b74263a49942fa619f9a6ac2
+    m_Address: AlphaMask
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9b5096fe0e95fe942b69fcf4fe622e77
+    m_Address: AimCanvas 2.5d
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 19ada061e49c42a4a893cd04a49e76b9, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 336a62add846524499f27edcbfd84e4d, type: 2}
+    - {fileID: 11400000, guid: 20471a9512b48db44871c8545a25a706, type: 2}
