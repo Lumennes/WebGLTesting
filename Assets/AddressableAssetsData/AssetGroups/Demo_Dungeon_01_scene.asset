@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Demo_Dungeon_01_scene
+  m_EditorClassIdentifier: 
+  m_GroupName: Demo_Dungeon_01_scene
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 04b6a3fcce4228d4ea63761f2de67802
+  m_SerializeEntries:
+  - m_GUID: d515063cc7e552649959320dfe40578b
+    m_Address: Assets/PolygonDungeonRealms/Scenes/Demo_Dungeon_01.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 19ada061e49c42a4a893cd04a49e76b9, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 5457e52a298afbc4b940412d684721e2, type: 2}
+    - {fileID: 11400000, guid: 2a3b53e5e5ca6b64eb196a2108d3f09c, type: 2}

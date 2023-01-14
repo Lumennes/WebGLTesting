@@ -129,10 +129,6 @@ MonoBehaviour:
     m_Address: topdownIcon
     m_ReadOnly: 0
     m_SerializedLabels: []
-  - m_GUID: 3f5b5dff67a942289a9defa416b206f3
-    m_Address: TMP Settings
-    m_ReadOnly: 0
-    m_SerializedLabels: []
   - m_GUID: 94dea1d9c2a31dc4c8fb50e6f2e62d94
     m_Address: Thumb
     m_ReadOnly: 0
@@ -157,10 +153,6 @@ MonoBehaviour:
     m_Address: swimmingAddon
     m_ReadOnly: 0
     m_SerializedLabels: []
-  - m_GUID: 4aecb92fff08436c8303b10eab8da368
-    m_Address: Style Sheets
-    m_ReadOnly: 0
-    m_SerializedLabels: []
   - m_GUID: 5f31421fa86e2154995a12ee87a8d724
     m_Address: stealthKillAddon
     m_ReadOnly: 0
@@ -171,10 +163,6 @@ MonoBehaviour:
     m_SerializedLabels: []
   - m_GUID: f981fdad814cbfb43969712c51317bae
     m_Address: square
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-  - m_GUID: 512a49d95c0c4332bdd98131869c23c9
-    m_Address: Sprite Assets
     m_ReadOnly: 0
     m_SerializedLabels: []
   - m_GUID: f00401fe90f607e4887ea7f1cb6638f5
@@ -267,14 +255,6 @@ MonoBehaviour:
     m_SerializedLabels: []
   - m_GUID: 9e1b5a4c48cc7aa4c9766432d52f1ea1
     m_Address: loading
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-  - m_GUID: d82c1b31c7e74239bff1220585707d2b
-    m_Address: LineBreaking Leading Characters
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-  - m_GUID: fade42e8bc714b018fac513c043d323b
-    m_Address: LineBreaking Following Characters
     m_ReadOnly: 0
     m_SerializedLabels: []
   - m_GUID: 12becdcf801d9224382fcdef25db8ff8
@@ -379,10 +359,6 @@ MonoBehaviour:
     m_SerializedLabels: []
   - m_GUID: 14e286f03a6e23c408d1f395394bb361
     m_Address: footStepIcon
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-  - m_GUID: 731f1baa9d144a9897cb1d341c2092b8
-    m_Address: Fonts & Materials
     m_ReadOnly: 0
     m_SerializedLabels: []
   - m_GUID: 37f223e0a67f76246b008bdad1aaaf02
