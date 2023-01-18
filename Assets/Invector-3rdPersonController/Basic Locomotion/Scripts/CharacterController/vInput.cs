@@ -1,8 +1,8 @@
 ﻿using UnityEngine;
 using UnityEngine.EventSystems;
-#if MOBILE_INPUT
+//#if MOBILE_INPUT
 using UnityStandardAssets.CrossPlatformInput;
-#endif
+//#endif
 
 namespace Invector.vCharacterController
 {
@@ -20,7 +20,7 @@ namespace Invector.vCharacterController
                     _instance = GameObject.FindObjectOfType<vInput>();
                     if (_instance == null)
                     {
-                        _instance =   new GameObject("vInputType").AddComponent<vInput>();
+                        _instance = new GameObject("vInputType").AddComponent<vInput>();
                         return _instance;
                     }
                 }
@@ -133,18 +133,19 @@ namespace Invector.vCharacterController
 
         private bool isMouseKeyboard()
         {
-#if MOBILE_INPUT
-            return false;
-#else
-            // mouse & keyboard buttons
-            if (Event.current.isKey || Event.current.isMouse)
-                return true;
-            // mouse movement
-            if (Input.GetAxis("Mouse X") != 0.0f || Input.GetAxis("Mouse Y") != 0.0f)
-                return true;
+            if (Globals.MOBILE_INPUT)
+                return false;
+            else
+            {
+                // mouse & keyboard buttons
+                if (Event.current.isKey || Event.current.isMouse)
+                    return true;
+                // mouse movement
+                if (Input.GetAxis("Mouse X") != 0.0f || Input.GetAxis("Mouse Y") != 0.0f)
+                    return true;
 
-            return false;
-#endif
+                return false;
+            }
         }
 
         private bool isJoystickInput()
@@ -175,7 +176,7 @@ namespace Invector.vCharacterController
             }
 
             // joystick axis
-            if (Input.GetAxis("LeftAnalogHorizontal") != 0.0f || 
+            if (Input.GetAxis("LeftAnalogHorizontal") != 0.0f ||
                 Input.GetAxis("LeftAnalogVertical") != 0.0f ||
                 Input.GetAxis("RightAnalogHorizontal") != 0.0f ||
                 Input.GetAxis("RightAnalogVertical") != 0.0f ||
@@ -389,10 +390,10 @@ namespace Invector.vCharacterController
             // mobile
             if (inputDevice == InputDevice.Mobile)
             {
-#if MOBILE_INPUT
-                if (CrossPlatformInputManager.GetButton(this.buttonName))
-#endif
-                    return true;
+                if (Globals.MOBILE_INPUT)
+                    if (CrossPlatformInputManager.GetButton(this.buttonName))
+                        //#endif
+                        return true;
             }
             // keyboard/mouse
             else if (inputDevice == InputDevice.MouseKeyboard)
@@ -428,10 +429,10 @@ namespace Invector.vCharacterController
             // mobile
             if (inputDevice == InputDevice.Mobile)
             {
-#if MOBILE_INPUT
-                if (CrossPlatformInputManager.GetButtonDown(this.buttonName))
-#endif
-                    return true;
+                if (Globals.MOBILE_INPUT)
+                    if (CrossPlatformInputManager.GetButtonDown(this.buttonName))
+                        //#endif
+                        return true;
             }
             // keyboard/mouse
             else if (inputDevice == InputDevice.MouseKeyboard)
@@ -468,10 +469,10 @@ namespace Invector.vCharacterController
             // mobile
             if (inputDevice == InputDevice.Mobile)
             {
-#if MOBILE_INPUT
-                if (CrossPlatformInputManager.GetButtonUp(this.buttonName))
-#endif
-                    return true;
+                if (Globals.MOBILE_INPUT)
+                    if (CrossPlatformInputManager.GetButtonUp(this.buttonName))
+                        //#endif
+                        return true;
             }
             // keyboard/mouse
             else if (inputDevice == InputDevice.MouseKeyboard)
@@ -507,9 +508,9 @@ namespace Invector.vCharacterController
             // mobile
             if (inputDevice == InputDevice.Mobile)
             {
-#if MOBILE_INPUT
-                return CrossPlatformInputManager.GetAxis(this.buttonName);
-#endif
+                if (Globals.MOBILE_INPUT)
+                    return CrossPlatformInputManager.GetAxis(this.buttonName);
+                //#endif
             }
             // keyboard/mouse
             else if (inputDevice == InputDevice.MouseKeyboard)
@@ -535,9 +536,9 @@ namespace Invector.vCharacterController
             // mobile
             if (inputDevice == InputDevice.Mobile)
             {
-#if MOBILE_INPUT
-                return CrossPlatformInputManager.GetAxisRaw(this.buttonName);
-#endif
+                if (Globals.MOBILE_INPUT)
+                    return CrossPlatformInputManager.GetAxisRaw(this.buttonName);
+                //#endif
             }
             // keyboard/mouse
             else if (inputDevice == InputDevice.MouseKeyboard)
@@ -561,9 +562,9 @@ namespace Invector.vCharacterController
         {
             if (string.IsNullOrEmpty(buttonName) || !IsButtonAvailable(this.buttonName)) return false;
 
-          
+
             if (multTapCounter == 0 && GetButtonDown())
-            {               
+            {
                 multTapTimer = Time.time;
                 multTapCounter = 1;
                 return false;
@@ -573,11 +574,11 @@ namespace Invector.vCharacterController
                 var time = multTapTimer + inputTime;
                 var valid = (Time.time < time);
                 multTapTimer = 0;
-                multTapCounter = 0;              
+                multTapCounter = 0;
                 return valid;
             }
-            else if(multTapCounter == 1 && multTapTimer + inputTime<Time.time)
-            {               
+            else if (multTapCounter == 1 && multTapTimer + inputTime < Time.time)
+            {
                 multTapTimer = 0;
                 multTapCounter = 0;
             }
@@ -643,11 +644,11 @@ namespace Invector.vCharacterController
 
                 if (!GetButton() || lastTimeTheButtonWasPressed < Time.time)
                 {
-                    inButtomTimer = false;                    
+                    inButtomTimer = false;
                     return false;
                 }
                 else
-                {                   
+                {
                     lastTimeTheButtonWasPressed = Time.time + 0.1f;
                 }
                 if (valid)
@@ -665,7 +666,7 @@ namespace Invector.vCharacterController
         /// <param name="inputTime"> time to check button press</param>
         /// <returns></returns>
         public bool GetButtonTimer(ref float currentTimer, ref bool upAfterPressed, float inputTime = 2)
-        {            
+        {
             if (string.IsNullOrEmpty(buttonName) || !IsButtonAvailable(this.buttonName)) return false;
             if (GetButtonDown())
             {

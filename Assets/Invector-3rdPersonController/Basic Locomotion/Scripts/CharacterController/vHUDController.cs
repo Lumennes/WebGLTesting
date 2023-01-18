@@ -195,14 +195,15 @@ namespace Invector.vCharacterController
         void ChangeInputDisplay()
         {
             if (displayControls == null) return;
-#if MOBILE_INPUT
-		displayControls.enabled = false;
-#else
-            if (controllerInput)
-                displayControls.sprite = joystickControls;
+            if (Globals.MOBILE_INPUT)
+                displayControls.enabled = false;
             else
-                displayControls.sprite = keyboardControls;
-#endif
+            {
+                if (controllerInput)
+                    displayControls.sprite = joystickControls;
+                else
+                    displayControls.sprite = keyboardControls;
+            }
         }
 
         void InitFadeText()

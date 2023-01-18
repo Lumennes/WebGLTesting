@@ -20,30 +20,34 @@ public class GameManager : MonoBehaviour
     [SerializeField] vMeleeCombatInput vMeleeCombatInput;
 
 
-    // Подписываемся на событие GetDataEvent в OnEnable
+    // РџРѕРґРїРёСЃС‹РІР°РµРјСЃСЏ РЅР° СЃРѕР±С‹С‚РёРµ GetDataEvent РІ OnEnable
     private void OnEnable() => YandexGame.GetDataEvent += GetData;
 
 
-    // Отписываемся от события GetDataEvent в OnDisable
+    // РћС‚РїРёСЃС‹РІР°РµРјСЃСЏ РѕС‚ СЃРѕР±С‹С‚РёСЏ GetDataEvent РІ OnDisable
     private void OnDisable() => YandexGame.GetDataEvent -= GetData;
 
-
+     
     // Start is called before the first frame update
     void Start()
     {
-        // Проверяем запустился ли плагин
+        // РџСЂРѕРІРµСЂСЏРµРј Р·Р°РїСѓСЃС‚РёР»СЃСЏ Р»Рё РїР»Р°РіРёРЅ
         if (YandexGame.SDKEnabled == true)
         {
-            // Если запустился, то запускаем Ваш метод
+            // Р•СЃР»Рё Р·Р°РїСѓСЃС‚РёР»СЃСЏ, С‚Рѕ Р·Р°РїСѓСЃРєР°РµРј Р’Р°С€ РјРµС‚РѕРґ
             GetData();
 
-            // Если плагин еще не прогрузился, то метод не запуститься в методе Start,
-            // но он запустится при вызове события GetDataEvent, после прогрузки плагина
+            // Р•СЃР»Рё РїР»Р°РіРёРЅ РµС‰Рµ РЅРµ РїСЂРѕРіСЂСѓР·РёР»СЃСЏ, С‚Рѕ РјРµС‚РѕРґ РЅРµ Р·Р°РїСѓСЃС‚РёС‚СЊСЃСЏ РІ РјРµС‚РѕРґРµ Start,
+            // РЅРѕ РѕРЅ Р·Р°РїСѓСЃС‚РёС‚СЃСЏ РїСЂРё РІС‹Р·РѕРІРµ СЃРѕР±С‹С‚РёСЏ GetDataEvent, РїРѕСЃР»Рµ РїСЂРѕРіСЂСѓР·РєРё РїР»Р°РіРёРЅР°
         }
+
+
+        //Globals.MOBILE_INPUT = true;
+        print($"Globals.MOBILE_INPUT: {Globals.MOBILE_INPUT}");
     }
 
 
-    // Ваш метод, который будет запускаться в старте
+    // Р’Р°С€ РјРµС‚РѕРґ, РєРѕС‚РѕСЂС‹Р№ Р±СѓРґРµС‚ Р·Р°РїСѓСЃРєР°С‚СЊСЃСЏ РІ СЃС‚Р°СЂС‚Рµ
     public void GetData()
     {
         if (geter)
@@ -51,7 +55,7 @@ public class GameManager : MonoBehaviour
 
         print($"Time.time: {Time.time}");
 
-        // Получаем данные из плагина и делаем с ними что хотим
+        // РџРѕР»СѓС‡Р°РµРј РґР°РЅРЅС‹Рµ РёР· РїР»Р°РіРёРЅР° Рё РґРµР»Р°РµРј СЃ РЅРёРјРё С‡С‚Рѕ С…РѕС‚РёРј
 
         if (YandexGame.EnvironmentData.deviceType == "desktop" && !simulateMobile)
         {

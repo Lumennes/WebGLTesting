@@ -52,7 +52,7 @@ jobs:
       ###########################
       - uses: actions/cache@v2
         with:
-          path: ${{ matrix.projectName }}/Library
+          path: Library
           key: Library-${{ matrix.projectName }}-ubuntu-${{ matrix.targetPlatform }}
           restore-keys: |
             Library-${{ matrix.projectName }}-ubuntu-
@@ -65,6 +65,7 @@ jobs:
         with:
           #projectPath: ${{ matrix.projectPath }}
           #unityVersion: ${{ matrix.unityVersion }}
+          buildName: ${{ matrix.projectName }}
           targetPlatform: ${{ matrix.targetPlatform }}
           #customParameters: -profile SomeProfile -someBoolean -someValue exampleValue
           #cloudRunnerCluster: ${{ matrix.cloudRunnerCluster }}
@@ -80,7 +81,7 @@ jobs:
           
       - uses: Difegue/action-megacmd@master
         with:
-          args: put -c build/${{ matrix.targetPlatform }} /Unity_projects/${{ matrix.projectName }}/${{ matrix.projectName }}_31/
+          args: put -c build/${{ matrix.projectName }} /Unity_projects/${{ matrix.projectName }}/${{ matrix.projectName }}_32/
         env:
           USERNAME: ${{ secrets.MEGA_USERNAME }}
           PASSWORD: ${{ secrets.MEGA_PASSWORD }}
