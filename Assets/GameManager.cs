@@ -6,7 +6,7 @@ using YG;
 
 public class GameManager : MonoBehaviour
 {
-    public bool simulateMobile;
+    //public bool simulateMobile;
 
 
     bool geter;
@@ -27,7 +27,12 @@ public class GameManager : MonoBehaviour
     // Отписываемся от события GetDataEvent в OnDisable
     private void OnDisable() => YandexGame.GetDataEvent -= GetData;
 
-     
+
+    private void Awake()
+    {
+        //Globals.MOBILE_INPUT = simulateMobile;
+    }
+
     // Start is called before the first frame update
     void Start()
     {
@@ -41,9 +46,42 @@ public class GameManager : MonoBehaviour
             // но он запустится при вызове события GetDataEvent, после прогрузки плагина
         }
 
+        
+        //Globals.MOBILE_INPUT = simulateMobile;
 
         //Globals.MOBILE_INPUT = true;
         print($"Globals.MOBILE_INPUT: {Globals.MOBILE_INPUT}");
+
+        //if (YandexGame.EnvironmentData.deviceType == "desktop" && !simulateMobile)
+        if (!Platform.IsMobileBrowser())
+        {
+            if (vMeleeCombatInput)
+            {
+                vMeleeCombatInput.showCursorOnStart = false;
+                vMeleeCombatInput.unlockCursorOnStart = false;
+                vMeleeCombatInput.ShowCursor(vMeleeCombatInput.showCursorOnStart);
+                vMeleeCombatInput.LockCursor(!vMeleeCombatInput.unlockCursorOnStart);
+            }
+
+            if (MobileUI_MeleeMobile_Inventory) MobileUI_MeleeMobile_Inventory.SetActive(false);
+            if (EquipmentDisplayWindow) EquipmentDisplayWindow.SetActive(false);
+            if (OpenInventory) OpenInventory.SetActive(false);
+        }
+        //else if (YandexGame.EnvironmentData.deviceType == "mobile" || simulateMobile)
+        else if (Platform.IsMobileBrowser())
+        {
+            //if (vMeleeCombatInput)
+            //{
+            //    vMeleeCombatInput.showCursorOnStart = true;
+            //    vMeleeCombatInput.unlockCursorOnStart = true;
+            //    vMeleeCombatInput.ShowCursor(true);
+            //    vMeleeCombatInput.LockCursor(false);
+            //}
+
+            //if (MobileUI_MeleeMobile_Inventory) MobileUI_MeleeMobile_Inventory.SetActive(true);
+            //if (EquipmentDisplayWindow) EquipmentDisplayWindow.SetActive(true);
+            //if (OpenInventory) OpenInventory.SetActive(true);
+        }
     }
 
 
@@ -57,26 +95,7 @@ public class GameManager : MonoBehaviour
 
         // Получаем данные из плагина и делаем с ними что хотим
 
-        if (YandexGame.EnvironmentData.deviceType == "desktop" && !simulateMobile)
-        {
-            if (vMeleeCombatInput)
-            {
-                vMeleeCombatInput.unlockCursorOnStart = false;
-                vMeleeCombatInput.showCursorOnStart = false;
-            }
-        }
-        else if (YandexGame.EnvironmentData.deviceType == "mobile" || simulateMobile)
-        {
-            //if (vMeleeCombatInput)
-            //{
-            //    vMeleeCombatInput.unlockCursorOnStart = true;
-            //    vMeleeCombatInput.showCursorOnStart = true;
-            //}
-
-            if (MobileUI_MeleeMobile_Inventory) MobileUI_MeleeMobile_Inventory.SetActive(true);
-            if (EquipmentDisplayWindow) EquipmentDisplayWindow.SetActive(true);
-            if (OpenInventory) OpenInventory.SetActive(true);
-        }
+       
 
         geter = true;
     }

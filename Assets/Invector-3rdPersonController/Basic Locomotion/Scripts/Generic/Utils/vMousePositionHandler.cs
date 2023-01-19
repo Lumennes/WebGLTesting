@@ -1,8 +1,8 @@
 ﻿using UnityEngine;
 
-#if MOBILE_INPUT
+//#if MOBILE_INPUT
 using UnityStandardAssets.CrossPlatformInput;
-#endif
+//#endif
 
 namespace Invector.vCharacterController
 {
@@ -63,19 +63,25 @@ namespace Invector.vCharacterController
                     case InputDevice.Mobile:
                         if (clampScreen)
                         {
-#if MOBILE_INPUT
-                            joystickMousePos.x += CrossPlatformInputManager.GetAxis("RightAnalogHorizontal") * joystickSensitivity;
-                            joystickMousePos.x = Mathf.Clamp(joystickMousePos.x, -(Screen.width * 0.5f), (Screen.width * 0.5f));
-                            joystickMousePos.y += CrossPlatformInputManager.GetAxis("RightAnalogVertical") * joystickSensitivity;
-                            joystickMousePos.y = Mathf.Clamp(joystickMousePos.y, -(Screen.height * 0.5f), (Screen.height * 0.5f));
-                            var mobileScreenCenter = new Vector2(Screen.width * 0.5f, Screen.height * 0.5f);
-                            var mobileResult = joystickMousePos + mobileScreenCenter;
-                            mobileResult.x = Mathf.Clamp(mobileResult.x, 0, Screen.width);
-                            mobileResult.y = Mathf.Clamp(mobileResult.y, 0, Screen.height);
-                            return mobileResult;
-#else
+//#if MOBILE_INPUT
+                            if (Globals.MOBILE_INPUT)
+                            {
+                                joystickMousePos.x += CrossPlatformInputManager.GetAxis("RightAnalogHorizontal") * joystickSensitivity;
+                                joystickMousePos.x = Mathf.Clamp(joystickMousePos.x, -(Screen.width * 0.5f), (Screen.width * 0.5f));
+                                joystickMousePos.y += CrossPlatformInputManager.GetAxis("RightAnalogVertical") * joystickSensitivity;
+                                joystickMousePos.y = Mathf.Clamp(joystickMousePos.y, -(Screen.height * 0.5f), (Screen.height * 0.5f));
+                                var mobileScreenCenter = new Vector2(Screen.width * 0.5f, Screen.height * 0.5f);
+                                var mobileResult = joystickMousePos + mobileScreenCenter;
+                                mobileResult.x = Mathf.Clamp(mobileResult.x, 0, Screen.width);
+                                mobileResult.y = Mathf.Clamp(mobileResult.y, 0, Screen.height);
+                                return mobileResult;
+                            }
+                            else
+                            {
+//#else
                                                     return Input.GetTouch(0).deltaPosition;
-#endif
+//#endif
+                            }
                         }
                         else
                         {

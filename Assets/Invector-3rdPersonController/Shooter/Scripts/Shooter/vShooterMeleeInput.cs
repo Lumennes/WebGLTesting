@@ -1803,8 +1803,26 @@ namespace Invector.vCharacterController
             }
            
         }
-      
+
         #endregion
+
+
+        //private void OnApplicationFocus(bool focus)
+        //{
+        //    if (!showCursorOnStart)
+        //        Cursor.visible = false;
+        //    if (!unlockCursorOnStart)
+        //        Cursor.lockState = CursorLockMode.Locked;
+        //}
+
+        public void ToogleVisibleCursor()
+        {
+            if (!Platform.IsMobileBrowser())
+            {
+                showCursorOnStart = !showCursorOnStart;
+                ShowCursor(showCursorOnStart);
+            }
+        }
 
     }
 
@@ -1817,4 +1835,6 @@ namespace Invector.vCharacterController
         public static int Shot_ID = Animator.StringToHash("Shot_ID");
         public static int PowerCharger = Animator.StringToHash("PowerCharger");
     }
+
+    
 }

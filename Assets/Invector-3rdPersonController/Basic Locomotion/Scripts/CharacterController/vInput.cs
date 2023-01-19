@@ -118,13 +118,16 @@ namespace Invector.vCharacterController
 
         private bool isMobileInput()
         {
-#if UNITY_EDITOR && UNITY_MOBILE
+#if UNITY_EDITOR 
+            /*&& UNITY_MOBILE*/
             if (EventSystem.current.IsPointerOverGameObject() && Input.GetMouseButtonDown(0))
             {
                 return true;
             }
-		
-#elif MOBILE_INPUT
+
+#else
+/*MOBILE_INPUT*/
+        if (Globals.MOBILE_INPUT)
             if (EventSystem.current.IsPointerOverGameObject() || (Input.touches.Length > 0))
                 return true;
 #endif
