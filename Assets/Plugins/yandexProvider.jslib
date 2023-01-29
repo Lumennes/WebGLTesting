@@ -145,7 +145,11 @@ mergeInto(LibraryManager.library,
         stringToUTF8(returnStr, buffer, bufferSize);
 		
         return buffer;
-    }
+    },
+	
+	IsMobileBrowser: function () {
+		return (/iPhone|iPad|iPod|Android/i.test(navigator.userAgent));
+	}
 });
 
 var FileIO = {
@@ -173,11 +177,7 @@ var FileIO = {
     else {
       return 0;
     }
-  },
-  
-  IsMobileBrowser: function () {
-    return (/iPhone|iPad|iPod|Android/i.test(navigator.userAgent));
-  }
+  } 
 };
 
 mergeInto(LibraryManager.library, FileIO);
