@@ -147,8 +147,8 @@ mergeInto(LibraryManager.library,
         return buffer;
     },
 	
-	IsMobileBrowser: function () {
-		return (/iPhone|iPad|iPod|Android/i.test(navigator.userAgent));
+	IsMobileBrowserInternal: function () {
+		return IsMobileBrowser();
 	}
 });
 

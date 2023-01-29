@@ -334,6 +334,15 @@
             }
         });
 
+	function IsMobileBrowser()
+	{
+		if (/iPhone|iPad|iPod|Android/i.test(navigator.userAgent)) 
+		{
+			return true;    
+		}
+		return false;
+	}
+
     function PaintRBT(rbt) {
         try {
             document.getElementById(rbt).style.background = '#ff0000';

@@ -3,5 +3,5 @@ using System.Runtime.InteropServices;
 public class WebGLHandler : MonoBehaviour
 {
     [DllImport("__Internal")]
-    public static extern bool IsMobileBrowser();
+    public static extern bool IsMobileBrowserInternal();
 }
