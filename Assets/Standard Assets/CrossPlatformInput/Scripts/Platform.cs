@@ -5,10 +5,10 @@ using System.Text;
 using System.Threading.Tasks;
 using UnityEngine;
 
-public class Platform
+public static class Platform
 {
-    bool taked;
-    bool mobile;
+    static bool taked;
+    static bool mobile;
 
     public static bool IsMobileBrowser()
     {
@@ -19,7 +19,7 @@ public class Platform
         //UnityEngine.Debug.Log($"isEditor: {UnityEngine.Application.isEditor}");
         return UnityEngine.Device.SystemInfo.deviceType != DeviceType.Desktop;        
 #elif UNITY_WEBGL
-        if(!taked)
+        if(taked == false)
         {
             mobile = WebGLHandler.IsMobileBrowserInternal();
             taked = true;
